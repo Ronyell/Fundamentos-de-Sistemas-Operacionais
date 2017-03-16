@@ -1,23 +1,19 @@
-BINFOLDER := bin/
 INCFOLDER := inc/
 SRCFOLDER := src/
-OBJFOLDER := obj/
 
 CC := gcc
-CFLAGS := -Wall
+CFLAGS := -W -Wall -Wshadow -pedantic
 
 SRCFILES := $(wildcard src/*.c)
 
-all: $(SRCFILES:src/%.c=obj/%.o)
-	$(CC) $(CFLAGS) obj/*.o -o bin/main
+all: $(SRCFILES:src/%.c=%.o)
+	$(CC) $(CFLAGS) *.o -o main
+	rm -rf *.o
 
-obj/%.o: src/%.c
+%.o: src/%.c
 	$(CC) $(CFLAGS) -c $< -o $@ -I./inc
 
 .PHONY: clean
-clean:
-	rm -rf obj/*
-	rm -rf bin/*
 
-run:
-		bin/main ${ARGS}
+clean:
+	rm -rf main

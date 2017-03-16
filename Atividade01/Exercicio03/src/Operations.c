@@ -23,6 +23,8 @@ void arrayCreasing(int lengh, int * arrayOfNumbers){
   int swap = 1;
   lengh = lengh - 1;
 
+  printf("Saida crescente:\n");
+
   while(swap){
     swap = 0;
     int count = 0;
@@ -45,6 +47,8 @@ void arrayCreasing(int lengh, int * arrayOfNumbers){
 void arrayDecreasing(int lengh, int * arrayOfNumbers){
   int swap = 1;
   lengh = lengh - 1;
+
+  printf("Saida decrescente:\n");
 
   while(swap){
     swap = 0;

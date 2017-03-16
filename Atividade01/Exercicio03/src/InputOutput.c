@@ -46,4 +46,7 @@ void printAllNumbers(int lengh, int * arrayOfNumbers){
   for(count  = 0; count<lengh; count++){
     printf("%d ", arrayOfNumbers[count]);
   }
+
+  printf("\n");
+  
 }

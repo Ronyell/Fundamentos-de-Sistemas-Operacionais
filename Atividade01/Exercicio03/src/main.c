@@ -14,13 +14,15 @@ int main(int argc, char* argv[]){
   int typeOrdenation = 0;
   typeOrdenation = checkNumberOfArguments(argc);
 
-  if(typeOrdenation){
+  if(typeOrdenation && lengh){
     arrayTypeOrdenation(lengh, arrayOfNumbers, argv[1]);
-  }else{
+  }else if(lengh){
     arrayCreasing(lengh, arrayOfNumbers);
   }
 
   printAllNumbers(lengh, arrayOfNumbers);
 
   free(arrayOfNumbers);
+
+  return 0;
 }
