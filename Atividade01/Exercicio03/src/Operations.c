@@ -7,10 +7,19 @@
 * Função que aloca espaço para o vetor
 */
 
-int * arrayAllocation(int lengh){
+int * arrayAllocation(){
   int * arrayOfNumbers  = NULL;
-  arrayOfNumbers = (int *) malloc(lengh*sizeof(int));
+  arrayOfNumbers = (int *) malloc(sizeof(int));
 
+  return arrayOfNumbers;
+}
+
+/*
+* Função que realoca espaço para o vetor
+*/
+
+int * arrayReallocation(int lengh, int *arrayOfNumbers){
+  arrayOfNumbers = (int *) realloc(arrayOfNumbers, (lengh + 1)*sizeof(int) );
   return arrayOfNumbers;
 }
 
@@ -20,14 +29,13 @@ int * arrayAllocation(int lengh){
 
 
 void arrayCreasing(int lengh, int * arrayOfNumbers){
+  int count = 0;
   int swap = 1;
   lengh = lengh - 1;
-
   printf("Saida crescente:\n");
 
   while(swap){
     swap = 0;
-    int count = 0;
     for(count = 0; count<lengh; count++){
       if(arrayOfNumbers[count] > arrayOfNumbers[count+1]){
         int auxiliar = arrayOfNumbers[count];
@@ -45,6 +53,7 @@ void arrayCreasing(int lengh, int * arrayOfNumbers){
 * Função que organiza o vetor de forma decrescente
 */
 void arrayDecreasing(int lengh, int * arrayOfNumbers){
+  int count = 0;
   int swap = 1;
   lengh = lengh - 1;
 
@@ -52,7 +61,6 @@ void arrayDecreasing(int lengh, int * arrayOfNumbers){
 
   while(swap){
     swap = 0;
-    int count = 0;
     for(count = 0; count<lengh; count++){
       if(arrayOfNumbers[count] < arrayOfNumbers[count+1]){
         int auxiliar = arrayOfNumbers[count];

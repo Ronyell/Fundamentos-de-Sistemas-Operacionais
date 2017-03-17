@@ -4,16 +4,10 @@
 #include <stdlib.h>
 
 /*
-* Função que recebe o tamanho do vetor
-*/
-
-int scanfLengh();
-
-/*
 * Função que recebe todos os números
 */
 
-int scanfAllNumbers(int lengh, int * arrayOfNumbers);
+int scanfAllNumbers(int * arrayOfNumbers);
 
 
 /*

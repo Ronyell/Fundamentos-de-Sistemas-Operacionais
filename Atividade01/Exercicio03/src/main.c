@@ -6,12 +6,11 @@
 int main(int argc, char* argv[]){
   int lengh = 0;
   int * arrayOfNumbers = NULL;
-
-  lengh = scanfLengh();
-  arrayOfNumbers = arrayAllocation(lengh);
-  lengh = scanfAllNumbers(lengh, arrayOfNumbers);
-
   int typeOrdenation = 0;
+
+  arrayOfNumbers = arrayAllocation();
+  lengh = scanfAllNumbers(arrayOfNumbers);
+
   typeOrdenation = checkNumberOfArguments(argc);
 
   if(typeOrdenation && lengh){

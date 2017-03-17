@@ -9,12 +9,16 @@
 /*
 * Função que aloca espaço para o vetor
 */
-int * arrayAllocation(int lengh);
+int * arrayAllocation();
+
+/*
+* Função que realoca espaço para o vetor
+*/
+int * arrayReallocation(int lengh, int *arrayOfNumbers);
 
 /*
 * Função que organiza o vetor de forma crescente
 */
-
 
 void arrayCreasing(int lengh, int * arrayOfNumbers);
 

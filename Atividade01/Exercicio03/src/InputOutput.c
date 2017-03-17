@@ -1,39 +1,25 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "InputOutput.h"
-
-/*
-* Função que recebe o tamanho do vetor
-*/
-
-int scanfLengh(){
-  int lengh = 0;
-
-  scanf("%d",&lengh);
-
-  return lengh;
-}
+#include "Operations.h"
 
 /*
 * Função que recebe todos os números
 */
 
-int scanfAllNumbers(int lengh, int * arrayOfNumbers){
-  int count = 0;
-
-  for(count = 0; count<lengh; count++){
-    int aux = 0;
-
+int scanfAllNumbers(int * arrayOfNumbers){
+  int lengh = 0;
+  int aux = 0;
+  do{
     scanf("%d",&aux );
-
-    if(aux == -1){
-      break;
+    if(aux != -1){
+      arrayOfNumbers[lengh] = aux;
+      lengh++;
+      arrayOfNumbers = arrayReallocation(lengh, arrayOfNumbers);
     }
+  } while (aux != -1);
 
-    arrayOfNumbers[count] = aux;
-  }
-
-  return count;
+  return lengh;
 }
 
 /*
@@ -48,5 +34,5 @@ void printAllNumbers(int lengh, int * arrayOfNumbers){
   }
 
   printf("\n");
-  
+
 }
