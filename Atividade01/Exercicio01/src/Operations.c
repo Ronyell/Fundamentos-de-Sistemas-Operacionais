@@ -1,33 +1,77 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <Compounds.h>
-#include <InputOutput.h>
+#include <math.h>
+#include "Compounds.h"
+#include "InputOutput.h"
 
 /*
-* Função que organiza os pontos em um quadrilátero
+* Função que calcula o determinante entre os pontos
 */
 
-Square generateQuadrilateral(){
+double calculaDeterminante(Ponto pontoA, Ponto pontoB, Ponto pontoC){
+  double determinante = 0.0;
 
-  Square square = NULL;
-  int positionTwo = 3;
-  Point points[4] = scanfAllPoints();
+  determinante = (pontoA.x * pontoB.y + pontoA.y * pontoC.x + pontoB.x * pontoC.y) / (pontoC.x * pontoB.y + pontoC.y * pontoA.x + pontoB.x * pontoA.y);
 
-  for(int i = 0; i < 4; i++){
+  return determinante;
+}
 
-    square.lines[i].points[0] = points[i];
+/*
+* Função que verifica se o quadrilatero é convexo
+*/
 
-      if(positionTwo == 2){
+int verificaConvexao(Quadrilatero quadrilatero){
+      Ponto pontos[5];
+      int contador = 0, orientacao = 0;
 
-        square.lines[0].points[1] = points[i];
-
-      }else{
-
-        square.lines[positionTwo-i].points[1] = points[i];
-
+      for(contador = 0; contador < 5; contador++){
+          if(contador<4){
+            pontos[contador] = quadrilatero.ponto[contador];
+          }else{
+            pontos[contador] = quadrilatero.ponto[0];
+          }
       }
 
-    }
+      contador = 0;
 
-  return square;
+      for (contador = 0; contador < 4; contador++){
+
+          int determinante = calculaDeterminante(pontos[contador], pontos[contador + 1], pontos[contador + 2]);
+
+          if (determinante == 0)
+              continue;
+
+          orientacao = determinante;
+          break;
+      }
+
+      for (; contador < 4; contador++)
+      {
+          int determinante = calculaDeterminante(pontos[contador], pontos[contador + 1], pontos[contador + 2]);
+
+          if (determinante == -orientacao)
+              return 0;
+      }
+
+      return orientacao != 0;
+}
+
+
+/*
+* Função que calcula a área de um polígono convexo
+*/
+
+double calculaArea(Quadrilatero quadrilatero){
+    double area = 0.0, somaA = 0.0, somaB = 0.0;
+    int contador = 0;
+
+        for (contador = 0; contador < 4; contador++)
+        {
+            somaA = somaA + quadrilatero.ponto[contador].x * quadrilatero.ponto[contador + 1].y;
+            somaB = somaB + quadrilatero.ponto[contador + 1].x * quadrilatero.ponto[contador].y;
+        }
+
+        area = fabs((somaA - somaB)/2.0);
+
+        return area;
 }

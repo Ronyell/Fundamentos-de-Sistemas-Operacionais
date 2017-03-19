@@ -1,8 +1,21 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 /*
-* Função que organiza os pontos em um quadrilátero
+* Função que calcula o determinante entre os pontos
 */
 
-Square generateQuadrilateral();
+double calculaDeterminante(Ponto pontoA, Ponto pontoB, Ponto pontoC);
+
+/*
+* Função que verifica se o quadrilatero é convexo
+*/
+
+int verificaConvexao(Quadrilatero quadrilatero);
+
+/*
+* Função que calcula a área de um polígono convexo
+*/
+
+double calculaArea(Quadrilatero quadrilatero);

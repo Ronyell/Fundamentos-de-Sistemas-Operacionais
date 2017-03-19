@@ -4,22 +4,16 @@
 /*
 * Estrutura relacionada ao ponto que é uma coordenada cartesiana
 */
-  struct {
+  typedef struct {
     double x;
     double y;
-  } Point;
+  } Ponto;
 
-/*
-* Estrutura relacionada a reta entre dois pontos ou duas coordenadas cartesianas
-*/
-  struct {
-    Point points[2];
-  } Line;
 
 /*
 * Estrutura relacionada ao quadrilátero que são quatro retas ou quatro coordenadas cartesianas
 */
 
-  struct {
-     Line lines[4];
-  } Square;
+  typedef struct {
+     Ponto ponto[4];
+  } Quadrilatero;

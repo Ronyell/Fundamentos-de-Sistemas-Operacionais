@@ -1,20 +1,21 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <Compounds.h>
-#include <InputOutput.h>
+#include "Compounds.h"
+#include "InputOutput.h"
+#include "Operations.h"
 
 /*
 * Função que recebe um ponto (dois números)
 */
 
-Point scanfPoint(){
+Ponto recebePonto(){
 
-  Point point = NULL;
+  Ponto ponto;
 
-  scanf("%lf",&point.x);
-  scanf("%lf",&point.y);
+  scanf("%lf",&ponto.x);
+  scanf("%lf",&ponto.y);
 
-  return point;
+  return ponto;
 }
 
 
@@ -22,15 +23,41 @@ Point scanfPoint(){
 * Função que recebe os pontos de um quadrilátero (quatro pontos, quatro retas, oito números)
 */
 
-Points * scanfAllPoints(){
+Quadrilatero recebeTodosPontos(){
 
-  Point points[4] = NULL;
+  Quadrilatero quadrilatero;
+  int contador = 0;
 
-  for(int i = 0; i<4; i++){
+  for(contador = 0; contador<4; contador++){
 
-    points[i] = scanfPoint;
+    quadrilatero.ponto[contador] = recebePonto();
 
   }
 
-  return points;
+  return quadrilatero;
+}
+
+/*
+* Função que imprime o tipo do quadrilatero
+*/
+
+void imprimeTipo(int tipo, Quadrilatero quadrilatero){
+  if(tipo == 0){
+    double area = 0.0;
+
+    printf("Quadrilatero convexo.\n");
+
+    area = calculaArea(quadrilatero);
+    imprimeArea(area);
+  }else{
+    printf("Quadrilatero nao convexo.\n");
+  }
+}
+
+/*
+* Função que imprime a area do quadrilátero
+*/
+
+void imprimeArea(double area){
+  printf("Area: %.2lf.\n",area);
 }
