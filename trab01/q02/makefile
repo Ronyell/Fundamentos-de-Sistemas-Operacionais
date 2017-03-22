@@ -1,7 +1,7 @@
 SRCFOLDER := src/
 
 CC := gcc
-CFLAGS := -W -Wall -Wshadow -pedantic
+CFLAGS := -W -Wall -Wshadow
 
 SRCFILES := $(wildcard src/*.c)
 
