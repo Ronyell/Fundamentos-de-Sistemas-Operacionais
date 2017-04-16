@@ -1,3 +1,5 @@
+#ifndef OPERATIONS_H
+#define OPERATIONS_H
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -19,3 +21,5 @@ int verificaConvexao(Quadrilatero quadrilatero);
 */
 
 double calculaArea(Quadrilatero quadrilatero);
+
+#endif

@@ -1,3 +1,5 @@
+#ifndef INPUTOUTPUT_H
+#define INPUTOUTPUT_H
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -24,3 +26,5 @@ void imprimeTipo(int tipo, Quadrilatero quadrilatero);
 */
 
 void imprimeArea(double area);
+
+#endif

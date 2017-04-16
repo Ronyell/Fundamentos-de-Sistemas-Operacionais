@@ -1,3 +1,5 @@
+#ifndef COMPOUNDS_H
+#define COMPOUNDS_H
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -17,3 +19,5 @@
   typedef struct {
      Ponto ponto[4];
   } Quadrilatero;
+
+#endif
