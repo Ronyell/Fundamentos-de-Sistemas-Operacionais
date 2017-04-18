@@ -1,3 +1,6 @@
+#ifndef FUNCOES_H
+#define FUNCOES_H
+
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -16,3 +19,5 @@ void fecharArquivo(int * fd, int position);
 void escreverArquivo(int * fd, char * message);
 
 int lerArquivo(int * fd, char * message);
+
+#endif

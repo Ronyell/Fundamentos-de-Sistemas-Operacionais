@@ -19,9 +19,12 @@ int main(){
   // Criação do pipe para o filho Ativo
   // int statusAtivo;
 
-  struct timeval tempoInicial;
+  struct timeval tempoInicial, tv;
   gettimeofday(&tempoInicial, NULL);
   double tempoInicialSegundos = tempoInicial.tv_sec * 1.0 + tempoInicial.tv_usec / 1000000.0;
+
+  tv.tv_sec = 1;
+  tv.tv_usec = 0;
 
   int fdAtivo[2];
 
@@ -31,17 +34,19 @@ int main(){
 
   // Criação do pipe para o filho Dorminhoco
   // int statusDorminhoco;
-  int fdDorminhoco[2];
-
-  if (pipe(fdDorminhoco) == -1){
-    return 1;
-  }
 
   filhoAtivo = fork();
 
   if(filhoAtivo > 0){ // Funções do processo Pai
     // fecharArquivo(fdAtivo, WRITE);
     close(fdAtivo[WRITE]);
+
+    int fdDorminhoco[2];
+
+    if (pipe(fdDorminhoco) == -1){
+      return 1;
+    }
+
     filhoDorminhoco = fork();
 
     if(filhoDorminhoco > 0){ // Funções do processo Pai Dorminhoco
@@ -51,28 +56,101 @@ int main(){
     }else{// Funções do processo Dorminhoco
       // fecharArquivo(fdDorminhoco, READ);
       close(fdDorminhoco[READ]);
+      fd_set rfdDorminhoco;
+      FD_ZERO(&rfdDorminhoco);
 
       for (int i = 0; ; i++){
-        char message[BUFFER_SIZE];
-        struct timeval tempoFinal;
-        gettimeofday(&tempoFinal, NULL);
-        double tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
-        double tempo = tempoFinalSegundos - tempoInicialSegundos;
+        FD_SET(fdDorminhoco[WRITE], &rfdDorminhoco);
 
-        sprintf(message, "0:%06.3lf: %s %02d %s", tempo, "Mensagem", i," do filho dorminhoco.");
-        // printf("----%s-----\n",message);
-        escreverArquivo(fdDorminhoco, message);
-        sleep(rand() % 3);
+        int retvalDorminhoco = select(fdDorminhoco[WRITE] + 1, NULL, &rfdDorminhoco, NULL, NULL);
+
+        if(retvalDorminhoco > 0){
+          char message[BUFFER_SIZE];
+          struct timeval tempoFinal;
+          gettimeofday(&tempoFinal, NULL);
+          double tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
+          double tempo = tempoFinalSegundos - tempoInicialSegundos;
+
+          //printf("Tempo Inicial: %ld %ld\n", tempoInicial.tv_sec, tempoInicial.tv_usec);
+          sprintf(message, "0:%06.3lf: %s %02d %s", tempo, "Mensagem", i+1," do filho dorminhoco.");
+          escreverArquivo(fdDorminhoco, message);
+          sleep(rand() % 3);
+        }else{
+          i--;
+        }
       }
       // fecharArquivo(fdDorminhoco, WRITE);
       close(fdDorminhoco[WRITE]);
     }
+    //******************************************************************************************************
+    // PAI DOS DOIS
+    //******************************************************************************************************
+
+    int number = 0;
+    fd_set rfds;
+    double tempo = 0;
+    FD_ZERO(&rfds);
+
+    while(tempo < 30){
+      FD_SET(fdDorminhoco[READ], &rfds);
+      FD_SET(fdAtivo[READ], &rfds);
+
+      struct timeval tempoFinal;
+      gettimeofday(&tempoFinal, NULL);
+      double tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
+      tempo = tempoFinalSegundos - tempoInicialSegundos;
+      int retval = select(fdDorminhoco[READ] + 1, &rfds, NULL, NULL, NULL);
+      if(retval > 0){
+
+        gettimeofday(&tempoFinal, NULL);
+        tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
+        tempo = tempoFinalSegundos - tempoInicialSegundos;
+        if (FD_ISSET(fdAtivo[READ], &rfds)>0){
+          char message1[BUFFER_SIZE]="";
+          char message[BUFFER_SIZE]="";
+          int size = lerArquivo(fdAtivo,message1);
+          if (size){
+            FILE * output = abrirArquivoSaida();
+            sprintf(message, "0:%06.3lf: %s", tempo, message1);
+            escreverArquivoSaida(output,message);
+            output = fecharArquivoSaida(output);
+          }
+        }
+
+        gettimeofday(&tempoFinal, NULL);
+        tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
+        tempo = tempoFinalSegundos - tempoInicialSegundos;
+
+        if (FD_ISSET(fdDorminhoco[READ], &rfds)>0){
+          char message2[BUFFER_SIZE]="";
+          char message[BUFFER_SIZE]="";
+          int size = lerArquivo(fdDorminhoco,message2);
+          if (size){
+            number ++;
+            FILE * output = abrirArquivoSaida();
+            sprintf(message, "0:%06.3lf: %s", tempo, message2);
+            escreverArquivoSaida(output,message);
+            output = fecharArquivoSaida(output);
+          }
+        }
+      }
+    }
+
+    printf("%d\n", number);
+    kill(filhoAtivo, SIGKILL);
+    kill(filhoDorminhoco, SIGKILL);
+
+//******************************************************************************************************
 
   }else{// Funções do processo Ativo
-    // fecharArquivo(fdAtivo, READ);
     close(fdAtivo[READ]);
+    fd_set rfdAtivo;
+    FD_ZERO(&rfdAtivo);
 
     for (int i = 1;; i++){
+      FD_SET(fdAtivo[WRITE], &rfdAtivo);
+
+
       char message[BUFFER_SIZE];
       char entrada[BUFFER_SIZE];
 
@@ -81,77 +159,19 @@ int main(){
 
       scanf("%[^\n]",entrada);
 
+      while((select(fdAtivo[WRITE] + 1, NULL, &rfdAtivo, NULL, NULL))<=0);
+
       struct timeval tempoFinal;
       gettimeofday(&tempoFinal, NULL);
       double tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
       double tempo = tempoFinalSegundos - tempoInicialSegundos;
-
       sprintf(message, "0:%06.3lf: %s %02d %s <%s>", tempo, "Mensagem", i," do usuário:", entrada);
-      // printf("----%s-----\n",message);
       escreverArquivo(fdAtivo, message);
     }
-    // fecharArquivo(fdAtivo, WRITE);
     close(fdAtivo[WRITE]);
-
-
   }
 
-  fd_set rfds;
-  struct timeval tv;
-  double tempo = 0;
 
-  while(tempo < 30){
-    tv.tv_sec = 5;
-    tv.tv_usec = 0;
-
-    FD_ZERO(&rfds);
-    FD_SET(fdDorminhoco[READ], &rfds);
-    FD_SET(fdAtivo[READ], &rfds);
-
-    struct timeval tempoFinal;
-    gettimeofday(&tempoFinal, NULL);
-    double tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
-    tempo = tempoFinalSegundos - tempoInicialSegundos;
-
-    int retval = select(fdDorminhoco[READ] + 1, &rfds, NULL, NULL, &tv);
-    if(retval > 0){
-
-      gettimeofday(&tempoFinal, NULL);
-      tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
-      tempo = tempoFinalSegundos - tempoInicialSegundos;
-
-      if (FD_ISSET(fdAtivo[READ], &rfds)>0){
-        char message1[BUFFER_SIZE]="";
-        char message[BUFFER_SIZE]="";
-        int size = lerArquivo(fdAtivo,message1);
-        if (size){
-          FILE * output = abrirArquivoSaida();
-          sprintf(message, "0:%06.3lf: %s", tempo, message1);
-          escreverArquivoSaida(output,message);
-          output = fecharArquivoSaida(output);
-        }
-      }
-
-      gettimeofday(&tempoFinal, NULL);
-      tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
-      tempo = tempoFinalSegundos - tempoInicialSegundos;
-
-      if (FD_ISSET(fdDorminhoco[READ], &rfds)>0){
-        char message2[BUFFER_SIZE]="";
-        char message[BUFFER_SIZE]="";
-        int size = lerArquivo(fdDorminhoco,message2);
-        if (size){
-          FILE * output = abrirArquivoSaida();
-          sprintf(message, "0:%06.3lf: %s", tempo, message2);
-          escreverArquivoSaida(output,message);
-          output = fecharArquivoSaida(output);
-        }
-      }
-    }
-  }
-
-  kill(filhoAtivo, SIGKILL);
-  kill(filhoDorminhoco, SIGKILL);
 
   return 0;
 }
