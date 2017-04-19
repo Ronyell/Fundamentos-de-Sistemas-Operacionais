@@ -4,6 +4,9 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <string.h>
+#include <sys/time.h>
+#include <sys/signal.h>
+
 #include "funcoes.h"
 
 
@@ -28,7 +31,7 @@ FILE * abrirArquivoSaida(){
     if(output == NULL){
 	    printf("Erro, nao foi possivel abrir o arquivo\n");
     }
-    
+
     return output;
 }
 
@@ -39,4 +42,21 @@ FILE * fecharArquivoSaida(FILE * output){
 
 void escreverArquivoSaida(FILE * output, char * message){
   fprintf(output, "%s\n", message );
+}
+
+double calculaTempoTotalSegundos(double tempoInicialSegundos){
+  struct timeval tempoFinal;
+  gettimeofday(&tempoFinal, NULL);
+  double tempoFinalSegundos = tempoFinal.tv_sec * 1.0 + tempoFinal.tv_usec / 1000000.0;
+  double tempo = tempoFinalSegundos - tempoInicialSegundos;
+
+  return tempo;
+}
+
+double calculaTempoInicialSegundos(){
+  struct timeval tempoInicial;
+  gettimeofday(&tempoInicial, NULL);
+  double tempoInicialSegundos = tempoInicial.tv_sec * 1.0 + tempoInicial.tv_usec / 1000000.0;
+
+  return tempoInicialSegundos;
 }

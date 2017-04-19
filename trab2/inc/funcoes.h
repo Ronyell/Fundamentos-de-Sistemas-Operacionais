@@ -14,10 +14,12 @@ FILE * fecharArquivoSaida(FILE * output);
 
 void escreverArquivoSaida(FILE * output, char * message);
 
-void fecharArquivo(int * fd, int position);
-
 void escreverArquivo(int * fd, char * message);
 
 int lerArquivo(int * fd, char * message);
+
+double calculaTempoInicialSegundos();
+
+double calculaTempoTotalSegundos(double tempoInicialSegundos);
 
 #endif
