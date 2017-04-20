@@ -22,4 +22,6 @@ double calculaTempoInicialSegundos();
 
 double calculaTempoTotalSegundos(double tempoInicialSegundos);
 
+void escreverSaida(double tempoInicialSegundos, int size, char * messageBuffer);
+
 #endif

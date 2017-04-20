@@ -73,7 +73,6 @@ int main(){
     //******************************************************************************************************
 
     char messageBuffer[BUFFER_SIZE]="";
-    char message[BUFFER_SIZE]="";
     fd_set rfds;
     double tempo = 0;
     FD_ZERO(&rfds);
@@ -83,31 +82,19 @@ int main(){
       FD_SET(fdAtivo[READ], &rfds);
 
       int retval = select(fdDorminhoco[READ] + 1, &rfds, NULL, NULL, NULL);
+      tempo = calculaTempoTotalSegundos(tempoInicialSegundos);
+
       if(retval > 0){
-
-
         // Leitura do arquivo do processo Ativo
         if (FD_ISSET(fdAtivo[READ], &rfds)>0){
           int size = lerArquivo(fdAtivo,messageBuffer);
-          if (size){
-            FILE * output = abrirArquivoSaida();
-            tempo = calculaTempoTotalSegundos(tempoInicialSegundos);
-            sprintf(message, "0:%06.3lf: %s", tempo, messageBuffer);
-            escreverArquivoSaida(output,message);
-            output = fecharArquivoSaida(output);
-          }
+          escreverSaida(tempoInicialSegundos, size, messageBuffer);
         }
 
         // Leitura do arquivo do processo Dorminhoco
         if (FD_ISSET(fdDorminhoco[READ], &rfds)>0){
           int size = lerArquivo(fdDorminhoco,messageBuffer);
-          if (size){
-            FILE * output = abrirArquivoSaida();
-            tempo = calculaTempoTotalSegundos(tempoInicialSegundos);
-            sprintf(message, "0:%06.3lf: %s", tempo, messageBuffer);
-            escreverArquivoSaida(output,message);
-            output = fecharArquivoSaida(output);
-          }
+          escreverSaida(tempoInicialSegundos, size, messageBuffer);
         }
       }
     }

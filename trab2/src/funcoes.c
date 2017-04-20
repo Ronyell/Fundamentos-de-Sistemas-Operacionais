@@ -60,3 +60,15 @@ double calculaTempoInicialSegundos(){
 
   return tempoInicialSegundos;
 }
+
+void escreverSaida(double tempoInicialSegundos, int size, char * messageBuffer){
+  if (size){
+    char message[BUFFER_SIZE] = "";
+    FILE * output = abrirArquivoSaida();
+    double tempo = calculaTempoTotalSegundos(tempoInicialSegundos);
+
+    sprintf(message, "0:%06.3lf: %s", tempo, messageBuffer);
+    escreverArquivoSaida(output,message);
+    output = fecharArquivoSaida(output);
+  }
+}
