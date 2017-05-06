@@ -6,7 +6,7 @@
 
 #define READ 0
 #define WRITE 1
-#define BUFFER_SIZE 5000
+#define BUFFER_SIZE 1000
 
 FILE * abrirArquivoSaida();
 
@@ -14,14 +14,14 @@ FILE * fecharArquivoSaida(FILE * output);
 
 void escreverArquivoSaida(FILE * output, char * message);
 
+void fecharArquivo(int * fd, int position);
+
 void escreverArquivo(int * fd, char * message);
 
 int lerArquivo(int * fd, char * message);
 
-double calculaTempoInicialSegundos();
+int randomSleep();
 
-double calculaTempoTotalSegundos(double tempoInicialSegundos);
-
-void escreverSaida(double tempoInicialSegundos, int size, char * messageBuffer);
+void fecharProcessos(pid_t filhoAtivo, pid_t filhoDorminhoco);
 
 #endif
