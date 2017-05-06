@@ -8,16 +8,16 @@
 #include "funcoes.h"
 
 void fecharArquivo(int * fd, int position){
-  close(fd[position]);
+    close(fd[position]);
 }
 
 void escreverArquivo(int * fd, char * message){
-  write(fd[WRITE], message, strlen(message)+1);
+    write(fd[WRITE], message, strlen(message)+1);
 }
 
 int lerArquivo(int * fd, char * message){
-  int size = read(fd[READ], message, BUFFER_SIZE);
-  return size;
+    int size = read(fd[READ], message, BUFFER_SIZE);
+    return size;
 }
 
 FILE * abrirArquivoSaida(){
@@ -26,38 +26,52 @@ FILE * abrirArquivoSaida(){
     output = fopen("output.txt", "a+");
 
     if(output == NULL){
-	    printf("Erro, nao foi possivel abrir o arquivo\n");
+        printf("Erro, nao foi possivel abrir o arquivo\n");
     }
 
     return output;
 }
 
 void *funcao1(void *argumentos){
-   printf("\nThread 1\n");
-   return (NULL);
+    while(x){
+        sleep(1);
+        printf("\nThread 1\n");
+    }
+    return (NULL);
 }
 
 void *funcao2(void *argumentos){
-   printf("\nThread 2\n");
-   return (NULL);
+    while(x){
+        sleep(2);
+        printf("\nThread 2\n");
+    }
+    return (NULL);
 }
 
 void *funcao3(void *argumentos){
-   printf("\nThread 3\n");
-   return (NULL);
+    while(x){
+        sleep(1);
+        printf("\nThread 3\n");
+    }
+    return (NULL);
 }
 
 void encerrarProcesso(int verificador){
-  switch (verificador) {
-          case SIGINT:
-               printf("Caught SIGINT, exiting now\n");
-              //pthread_join(threadProdutora,NULL);
-              //pthread_join(threadConsumidora1,NULL);
-              //pthread_join(threadConsumidora2,NULL);
-              exit(0);
-              break;
-          default:
-          break;
-  }
+    switch (verificador) {
+        case SIGINT:
+            x=0;
+            printf("Caught SIGINT, exiting now\n");
+            void *returnValue[NUM_THREADS] ;
+            int i = 0;
+
+            for(i = 0; i< NUM_THREADS; i++){
+                pthread_join(threads[i], & returnValue[i]);
+                printf("%d", (int) returnValue[i]);
+            }
+            exit(0);
+        break;
+        default:
+        break;
+    }
 
 }

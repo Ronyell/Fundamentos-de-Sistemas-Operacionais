@@ -5,9 +5,10 @@
 #include "funcoes.h"
 
 int main(){
-  pthread_create(&threadProdutora, NULL, funcao1, NULL);
-  pthread_create(&threadConsumidora1, NULL, funcao2, NULL);
-  pthread_create(&threadConsumidora2, NULL, funcao3, NULL);
+    x = 1;
+  pthread_create(&threads[0], NULL, funcao1, NULL);
+  pthread_create(&threads[1], NULL, funcao2, NULL);
+  pthread_create(&threads[2], NULL, funcao3, NULL);
 
   signal(SIGINT, encerrarProcesso);
 

@@ -8,10 +8,10 @@
 #define READ 0
 #define WRITE 1
 #define BUFFER_SIZE 1000
+#define NUM_THREADS 3
 
-pthread_t threadProdutora;
-pthread_t threadConsumidora1;
-pthread_t threadConsumidora2;
+pthread_t threads[NUM_THREADS];
+int x;
 
 FILE * abrirArquivoSaida();
 
