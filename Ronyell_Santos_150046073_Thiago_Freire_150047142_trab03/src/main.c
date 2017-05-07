@@ -2,10 +2,20 @@
 #include <stdio.h>
 #include <signal.h>
 #include <pthread.h>
+#include <string.h>
 #include "funcoes.h"
 #include "fila.h"
 
 int main(){
+    FILE * arquivoLog;
+    char nomeArquivo[100]= "";
+
+    printf("Digite o nome do arquivo que deseja salvar o log: ");
+    scanf("%s", nomeArquivo);
+    strcat(nomeArquivo,".txt");
+
+    criarArquivoLog();
+
     quantidadeAtual = 0;
     BUFFER = (Node *) malloc(sizeof(Node));
 
@@ -24,11 +34,12 @@ int main(){
     for(i = 0; i< NUM_THREADS; i++){
         pthread_join(threads[i], NULL);
     }
-    printf("[aviso]: Maior numero gerado: %d\n", maiorNumero);
-    printf("[aviso]: Menor numero gerado: %d\n", menorNumero);
-    printf("[aviso]: Maior ocupacao de buffer: %d\n", maiorOcupacao);
-    printf("[aviso]: Aplicacao encerrada.\n");
+    
+    imprimirResultados();
 
+    BUFFER = desalocaFila(BUFFER);
+
+    fecharArquivoLog(nomeArquivo);
 
     return 0;
 }

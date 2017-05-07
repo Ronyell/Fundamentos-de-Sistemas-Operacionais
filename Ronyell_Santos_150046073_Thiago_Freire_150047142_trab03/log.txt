@@ -1,0 +1,2808 @@
+[producao]: Numero gerado -892023325
+[consumo b]: Numero lido -892023325
+[producao]: Numero gerado -525164952
+[consumo a]: Numero lido -525164952
+[producao]: Numero gerado -1103390503
+[consumo b]: Numero lido -1103390503
+[producao]: Numero gerado -1865248250
+[consumo a]: Numero lido -1865248250
+[producao]: Numero gerado -112214202
+[consumo b]: Numero lido -112214202
+[producao]: Numero gerado 2121078190
+[consumo a]: Numero lido 2121078190
+[producao]: Numero gerado -1434469853
+[consumo b]: Numero lido -1434469853
+[producao]: Numero gerado 1497605824
+[consumo a]: Numero lido 1497605824
+[producao]: Numero gerado -481175575
+[consumo b]: Numero lido -481175575
+[producao]: Numero gerado 1048640308
+[consumo a]: Numero lido 1048640308
+[producao]: Numero gerado -730489491
+[consumo b]: Numero lido -730489491
+[producao]: Numero gerado -1865766874
+[consumo a]: Numero lido -1865766874
+[producao]: Numero gerado 615365939
+[consumo b]: Numero lido 615365939
+[producao]: Numero gerado 2074941389
+[consumo a]: Numero lido 2074941389
+[producao]: Numero gerado -836491419
+[consumo b]: Numero lido -836491419
+[producao]: Numero gerado -1969276668
+[consumo a]: Numero lido -1969276668
+[producao]: Numero gerado 203850695
+[consumo b]: Numero lido 203850695
+[producao]: Numero gerado -1661408271
+[consumo a]: Numero lido -1661408271
+[producao]: Numero gerado 2090497451
+[consumo b]: Numero lido 2090497451
+[producao]: Numero gerado -1831122092
+[consumo a]: Numero lido -1831122092
+[producao]: Numero gerado 1188972844
+[consumo b]: Numero lido 1188972844
+[producao]: Numero gerado 548975703
+[consumo a]: Numero lido 548975703
+[producao]: Numero gerado 268390794
+[consumo b]: Numero lido 268390794
+[producao]: Numero gerado -1418876365
+[consumo a]: Numero lido -1418876365
+[producao]: Numero gerado 782744130
+[consumo b]: Numero lido 782744130
+[producao]: Numero gerado -627330074
+[consumo a]: Numero lido -627330074
+[producao]: Numero gerado 465732315
+[consumo b]: Numero lido 465732315
+[producao]: Numero gerado -1101489406
+[consumo a]: Numero lido -1101489406
+[producao]: Numero gerado 767897071
+[consumo b]: Numero lido 767897071
+[producao]: Numero gerado 266735407
+[consumo a]: Numero lido 266735407
+[producao]: Numero gerado 1960556635
+[consumo b]: Numero lido 1960556635
+[producao]: Numero gerado 624562577
+[consumo a]: Numero lido 624562577
+[producao]: Numero gerado 2094045532
+[consumo b]: Numero lido 2094045532
+[producao]: Numero gerado 274820543
+[consumo a]: Numero lido 274820543
+[producao]: Numero gerado 1866378467
+[consumo b]: Numero lido 1866378467
+[producao]: Numero gerado 255393106
+[consumo a]: Numero lido 255393106
+[producao]: Numero gerado -776191038
+[consumo b]: Numero lido -776191038
+[producao]: Numero gerado -929953925
+[consumo a]: Numero lido -929953925
+[producao]: Numero gerado 1735325445
+[consumo b]: Numero lido 1735325445
+[producao]: Numero gerado -1326106570
+[consumo a]: Numero lido -1326106570
+[producao]: Numero gerado -726388780
+[consumo b]: Numero lido -726388780
+[producao]: Numero gerado 174959908
+[consumo a]: Numero lido 174959908
+[producao]: Numero gerado -1402836587
+[consumo b]: Numero lido -1402836587
+[producao]: Numero gerado -1047149067
+[consumo a]: Numero lido -1047149067
+[producao]: Numero gerado 268056989
+[consumo b]: Numero lido 268056989
+[producao]: Numero gerado -978036303
+[consumo a]: Numero lido -978036303
+[producao]: Numero gerado 611828044
+[consumo b]: Numero lido 611828044
+[producao]: Numero gerado 1322593894
+[consumo a]: Numero lido 1322593894
+[producao]: Numero gerado -2046115250
+[consumo b]: Numero lido -2046115250
+[producao]: Numero gerado 1862134300
+[consumo a]: Numero lido 1862134300
+[producao]: Numero gerado -1509789750
+[consumo b]: Numero lido -1509789750
+[producao]: Numero gerado -249993615
+[consumo a]: Numero lido -249993615
+[producao]: Numero gerado 1844369992
+[consumo b]: Numero lido 1844369992
+[producao]: Numero gerado 1663855561
+[consumo a]: Numero lido 1663855561
+[producao]: Numero gerado -415705873
+[consumo b]: Numero lido -415705873
+[producao]: Numero gerado -944746109
+[consumo a]: Numero lido -944746109
+[producao]: Numero gerado 398459436
+[consumo b]: Numero lido 398459436
+[producao]: Numero gerado -1859090707
+[consumo a]: Numero lido -1859090707
+[producao]: Numero gerado -553422018
+[consumo b]: Numero lido -553422018
+[producao]: Numero gerado -209647449
+[consumo a]: Numero lido -209647449
+[producao]: Numero gerado -1060199223
+[consumo b]: Numero lido -1060199223
+[producao]: Numero gerado 875805796
+[consumo a]: Numero lido 875805796
+[producao]: Numero gerado -331001177
+[consumo b]: Numero lido -331001177
+[producao]: Numero gerado 161804151
+[consumo a]: Numero lido 161804151
+[producao]: Numero gerado 1940983174
+[consumo b]: Numero lido 1940983174
+[producao]: Numero gerado 323682422
+[consumo a]: Numero lido 323682422
+[producao]: Numero gerado -665699186
+[consumo b]: Numero lido -665699186
+[producao]: Numero gerado 1177368561
+[consumo a]: Numero lido 1177368561
+[producao]: Numero gerado -634777832
+[consumo b]: Numero lido -634777832
+[producao]: Numero gerado 82530348
+[consumo a]: Numero lido 82530348
+[producao]: Numero gerado -799641079
+[consumo b]: Numero lido -799641079
+[producao]: Numero gerado 424004952
+[consumo a]: Numero lido 424004952
+[producao]: Numero gerado -2039183157
+[consumo b]: Numero lido -2039183157
+[producao]: Numero gerado 229602162
+[consumo a]: Numero lido 229602162
+[producao]: Numero gerado -1216956931
+[consumo b]: Numero lido -1216956931
+[producao]: Numero gerado 822557125
+[consumo a]: Numero lido 822557125
+[producao]: Numero gerado -586728950
+[consumo b]: Numero lido -586728950
+[producao]: Numero gerado -1623035804
+[consumo a]: Numero lido -1623035804
+[producao]: Numero gerado -1768801594
+[consumo b]: Numero lido -1768801594
+[producao]: Numero gerado 1915530627
+[consumo a]: Numero lido 1915530627
+[producao]: Numero gerado 310765066
+[consumo b]: Numero lido 310765066
+[producao]: Numero gerado -460746299
+[consumo a]: Numero lido -460746299
+[producao]: Numero gerado 91684205
+[consumo b]: Numero lido 91684205
+[producao]: Numero gerado -1134133179
+[consumo a]: Numero lido -1134133179
+[producao]: Numero gerado -2121197747
+[consumo b]: Numero lido -2121197747
+[producao]: Numero gerado 1013388817
+[consumo a]: Numero lido 1013388817
+[producao]: Numero gerado 1491874708
+[consumo b]: Numero lido 1491874708
+[producao]: Numero gerado 1635806197
+[consumo a]: Numero lido 1635806197
+[producao]: Numero gerado 1094449577
+[consumo b]: Numero lido 1094449577
+[producao]: Numero gerado -539546366
+[consumo a]: Numero lido -539546366
+[producao]: Numero gerado 2144342664
+[consumo b]: Numero lido 2144342664
+[producao]: Numero gerado -1780659097
+[consumo a]: Numero lido -1780659097
+[producao]: Numero gerado -160391923
+[consumo b]: Numero lido -160391923
+[producao]: Numero gerado 867946585
+[consumo a]: Numero lido 867946585
+[producao]: Numero gerado 327564800
+[consumo b]: Numero lido 327564800
+[producao]: Numero gerado 1033771528
+[consumo a]: Numero lido 1033771528
+[producao]: Numero gerado -1751035757
+[consumo b]: Numero lido -1751035757
+[producao]: Numero gerado 1898787133
+[consumo a]: Numero lido 1898787133
+[producao]: Numero gerado -463571950
+[consumo b]: Numero lido -463571950
+[producao]: Numero gerado -976948350
+[consumo a]: Numero lido -976948350
+[producao]: Numero gerado 1695926557
+[consumo b]: Numero lido 1695926557
+[producao]: Numero gerado 259822344
+[consumo a]: Numero lido 259822344
+[producao]: Numero gerado 971363414
+[consumo b]: Numero lido 971363414
+[producao]: Numero gerado 1305586664
+[consumo a]: Numero lido 1305586664
+[producao]: Numero gerado 1564657761
+[consumo b]: Numero lido 1564657761
+[producao]: Numero gerado -1901820880
+[consumo a]: Numero lido -1901820880
+[producao]: Numero gerado 1905584809
+[consumo b]: Numero lido 1905584809
+[producao]: Numero gerado 1867493617
+[consumo a]: Numero lido 1867493617
+[producao]: Numero gerado 1500326329
+[consumo b]: Numero lido 1500326329
+[producao]: Numero gerado 2042131114
+[consumo a]: Numero lido 2042131114
+[producao]: Numero gerado 1287740710
+[consumo b]: Numero lido 1287740710
+[producao]: Numero gerado 1835820621
+[consumo a]: Numero lido 1835820621
+[producao]: Numero gerado -19614455
+[consumo b]: Numero lido -19614455
+[producao]: Numero gerado -2078196895
+[consumo a]: Numero lido -2078196895
+[producao]: Numero gerado 75258744
+[consumo b]: Numero lido 75258744
+[producao]: Numero gerado -1685507060
+[consumo a]: Numero lido -1685507060
+[producao]: Numero gerado 1318342628
+[consumo b]: Numero lido 1318342628
+[producao]: Numero gerado 964378279
+[consumo a]: Numero lido 964378279
+[producao]: Numero gerado 44963619
+[consumo b]: Numero lido 44963619
+[producao]: Numero gerado 1632527721
+[consumo a]: Numero lido 1632527721
+[producao]: Numero gerado -1600298320
+[consumo b]: Numero lido -1600298320
+[producao]: Numero gerado -1236634453
+[consumo a]: Numero lido -1236634453
+[producao]: Numero gerado 1954906745
+[consumo b]: Numero lido 1954906745
+[producao]: Numero gerado -1405804146
+[consumo a]: Numero lido -1405804146
+[producao]: Numero gerado 2118823667
+[consumo b]: Numero lido 2118823667
+[producao]: Numero gerado -669107153
+[consumo a]: Numero lido -669107153
+[producao]: Numero gerado -1900031050
+[consumo b]: Numero lido -1900031050
+[producao]: Numero gerado -1441526728
+[consumo a]: Numero lido -1441526728
+[producao]: Numero gerado -1779619016
+[consumo b]: Numero lido -1779619016
+[producao]: Numero gerado 168510443
+[consumo a]: Numero lido 168510443
+[producao]: Numero gerado -1952607791
+[consumo b]: Numero lido -1952607791
+[producao]: Numero gerado -510316273
+[consumo a]: Numero lido -510316273
+[producao]: Numero gerado 1223672629
+[consumo b]: Numero lido 1223672629
+[producao]: Numero gerado 666259309
+[consumo a]: Numero lido 666259309
+[producao]: Numero gerado -319266808
+[consumo b]: Numero lido -319266808
+[producao]: Numero gerado -2102834407
+[consumo a]: Numero lido -2102834407
+[producao]: Numero gerado 1731007964
+[consumo b]: Numero lido 1731007964
+[producao]: Numero gerado -807523752
+[consumo a]: Numero lido -807523752
+[producao]: Numero gerado 1521494544
+[consumo b]: Numero lido 1521494544
+[producao]: Numero gerado 1173784847
+[consumo a]: Numero lido 1173784847
+[producao]: Numero gerado 620442998
+[consumo b]: Numero lido 620442998
+[producao]: Numero gerado -252512384
+[consumo a]: Numero lido -252512384
+[producao]: Numero gerado -2045812991
+[consumo b]: Numero lido -2045812991
+[producao]: Numero gerado 1674745633
+[consumo a]: Numero lido 1674745633
+[producao]: Numero gerado -47655443
+[consumo b]: Numero lido -47655443
+[producao]: Numero gerado 769310098
+[consumo a]: Numero lido 769310098
+[producao]: Numero gerado -221937132
+[consumo b]: Numero lido -221937132
+[producao]: Numero gerado -918436788
+[consumo a]: Numero lido -918436788
+[producao]: Numero gerado -1073117539
+[consumo b]: Numero lido -1073117539
+[producao]: Numero gerado -1924058603
+[consumo a]: Numero lido -1924058603
+[producao]: Numero gerado -820952851
+[consumo b]: Numero lido -820952851
+[producao]: Numero gerado -1668116922
+[consumo a]: Numero lido -1668116922
+[producao]: Numero gerado -1453782524
+[consumo b]: Numero lido -1453782524
+[producao]: Numero gerado 1417630615
+[consumo a]: Numero lido 1417630615
+[producao]: Numero gerado -871343942
+[consumo b]: Numero lido -871343942
+[producao]: Numero gerado -136206621
+[consumo a]: Numero lido -136206621
+[producao]: Numero gerado 660048080
+[consumo b]: Numero lido 660048080
+[producao]: Numero gerado 807561476
+[consumo a]: Numero lido 807561476
+[producao]: Numero gerado -449996821
+[consumo b]: Numero lido -449996821
+[producao]: Numero gerado -89550854
+[consumo a]: Numero lido -89550854
+[producao]: Numero gerado 1494830911
+[consumo b]: Numero lido 1494830911
+[producao]: Numero gerado 1127208676
+[consumo a]: Numero lido 1127208676
+[producao]: Numero gerado -765746818
+[consumo b]: Numero lido -765746818
+[producao]: Numero gerado -415667591
+[consumo a]: Numero lido -415667591
+[producao]: Numero gerado -42750785
+[consumo b]: Numero lido -42750785
+[producao]: Numero gerado 1639626872
+[consumo a]: Numero lido 1639626872
+[producao]: Numero gerado -214940435
+[consumo b]: Numero lido -214940435
+[producao]: Numero gerado -544234178
+[consumo a]: Numero lido -544234178
+[producao]: Numero gerado 188503979
+[consumo b]: Numero lido 188503979
+[producao]: Numero gerado -95060417
+[consumo a]: Numero lido -95060417
+[producao]: Numero gerado 261757446
+[consumo b]: Numero lido 261757446
+[producao]: Numero gerado -780760763
+[consumo a]: Numero lido -780760763
+[producao]: Numero gerado -1491720687
+[consumo b]: Numero lido -1491720687
+[producao]: Numero gerado -2009883854
+[consumo a]: Numero lido -2009883854
+[producao]: Numero gerado -24509738
+[consumo b]: Numero lido -24509738
+[producao]: Numero gerado -365682708
+[consumo a]: Numero lido -365682708
+[producao]: Numero gerado -882693682
+[consumo b]: Numero lido -882693682
+[producao]: Numero gerado 1599676954
+[consumo a]: Numero lido 1599676954
+[producao]: Numero gerado -2122320205
+[consumo b]: Numero lido -2122320205
+[producao]: Numero gerado 1759006895
+[consumo a]: Numero lido 1759006895
+[producao]: Numero gerado 1915327480
+[consumo b]: Numero lido 1915327480
+[producao]: Numero gerado -110544690
+[consumo a]: Numero lido -110544690
+[producao]: Numero gerado 807638670
+[consumo b]: Numero lido 807638670
+[producao]: Numero gerado -455241685
+[consumo a]: Numero lido -455241685
+[producao]: Numero gerado -597283808
+[consumo b]: Numero lido -597283808
+[producao]: Numero gerado -1130540466
+[consumo a]: Numero lido -1130540466
+[producao]: Numero gerado 357305537
+[consumo b]: Numero lido 357305537
+[producao]: Numero gerado -1057916808
+[consumo a]: Numero lido -1057916808
+[producao]: Numero gerado 692158845
+[consumo b]: Numero lido 692158845
+[producao]: Numero gerado -1220541805
+[consumo a]: Numero lido -1220541805
+[producao]: Numero gerado 856014220
+[consumo b]: Numero lido 856014220
+[producao]: Numero gerado 494221138
+[consumo a]: Numero lido 494221138
+[producao]: Numero gerado 1214434138
+[consumo b]: Numero lido 1214434138
+[producao]: Numero gerado 853054660
+[consumo a]: Numero lido 853054660
+[producao]: Numero gerado 468392569
+[consumo b]: Numero lido 468392569
+[producao]: Numero gerado 640631748
+[consumo a]: Numero lido 640631748
+[producao]: Numero gerado -786004732
+[consumo b]: Numero lido -786004732
+[producao]: Numero gerado -944329755
+[consumo a]: Numero lido -944329755
+[producao]: Numero gerado -582021558
+[consumo b]: Numero lido -582021558
+[producao]: Numero gerado 1105795078
+[consumo a]: Numero lido 1105795078
+[producao]: Numero gerado -373550404
+[consumo b]: Numero lido -373550404
+[producao]: Numero gerado -1780552571
+[consumo a]: Numero lido -1780552571
+[producao]: Numero gerado -1420858760
+[consumo b]: Numero lido -1420858760
+[producao]: Numero gerado 1934060767
+[consumo a]: Numero lido 1934060767
+[producao]: Numero gerado -137076856
+[consumo b]: Numero lido -137076856
+[producao]: Numero gerado 1729306805
+[consumo a]: Numero lido 1729306805
+[producao]: Numero gerado 1098884789
+[consumo a]: Numero lido 1098884789
+[producao]: Numero gerado 361389877
+[consumo b]: Numero lido 361389877
+[producao]: Numero gerado 1154512563
+[consumo a]: Numero lido 1154512563
+[producao]: Numero gerado 712203075
+[consumo b]: Numero lido 712203075
+[producao]: Numero gerado -1504620710
+[consumo a]: Numero lido -1504620710
+[producao]: Numero gerado 542757785
+[consumo b]: Numero lido 542757785
+[producao]: Numero gerado -2094543781
+[consumo a]: Numero lido -2094543781
+[producao]: Numero gerado -611134595
+[consumo b]: Numero lido -611134595
+[producao]: Numero gerado 397520142
+[consumo a]: Numero lido 397520142
+[producao]: Numero gerado -1948427519
+[consumo b]: Numero lido -1948427519
+[producao]: Numero gerado -1722062708
+[consumo a]: Numero lido -1722062708
+[producao]: Numero gerado -1320665591
+[consumo b]: Numero lido -1320665591
+[producao]: Numero gerado 1104337660
+[consumo a]: Numero lido 1104337660
+[producao]: Numero gerado 1393509088
+[consumo b]: Numero lido 1393509088
+[producao]: Numero gerado -1165577266
+[consumo a]: Numero lido -1165577266
+[producao]: Numero gerado 1838711575
+[consumo b]: Numero lido 1838711575
+[producao]: Numero gerado 1434360224
+[consumo a]: Numero lido 1434360224
+[producao]: Numero gerado 1351032303
+[consumo a]: Numero lido 1351032303
+[producao]: Numero gerado 1642867266
+[consumo b]: Numero lido 1642867266
+[producao]: Numero gerado -1514553736
+[consumo a]: Numero lido -1514553736
+[producao]: Numero gerado 1435241873
+[consumo b]: Numero lido 1435241873
+[producao]: Numero gerado -1964089004
+[consumo a]: Numero lido -1964089004
+[producao]: Numero gerado 327698225
+[consumo b]: Numero lido 327698225
+[producao]: Numero gerado -859834673
+[consumo a]: Numero lido -859834673
+[producao]: Numero gerado 498181008
+[consumo b]: Numero lido 498181008
+[producao]: Numero gerado -1028726280
+[consumo a]: Numero lido -1028726280
+[producao]: Numero gerado 664844687
+[consumo b]: Numero lido 664844687
+[producao]: Numero gerado -116931993
+[consumo a]: Numero lido -116931993
+[producao]: Numero gerado -1699304758
+[consumo b]: Numero lido -1699304758
+[producao]: Numero gerado 84176508
+[consumo a]: Numero lido 84176508
+[producao]: Numero gerado -790434042
+[consumo b]: Numero lido -790434042
+[producao]: Numero gerado 1508456670
+[consumo a]: Numero lido 1508456670
+[producao]: Numero gerado 70903889
+[consumo b]: Numero lido 70903889
+[producao]: Numero gerado -604761459
+[consumo a]: Numero lido -604761459
+[producao]: Numero gerado 1496385534
+[consumo b]: Numero lido 1496385534
+[producao]: Numero gerado 1840253425
+[consumo a]: Numero lido 1840253425
+[producao]: Numero gerado 212426106
+[consumo b]: Numero lido 212426106
+[producao]: Numero gerado 934044419
+[consumo a]: Numero lido 934044419
+[producao]: Numero gerado 560135725
+[consumo b]: Numero lido 560135725
+[producao]: Numero gerado 1280308974
+[consumo a]: Numero lido 1280308974
+[producao]: Numero gerado -905897795
+[consumo b]: Numero lido -905897795
+[producao]: Numero gerado 543349343
+[consumo a]: Numero lido 543349343
+[producao]: Numero gerado -1266476983
+[consumo b]: Numero lido -1266476983
+[producao]: Numero gerado 526535285
+[consumo a]: Numero lido 526535285
+[producao]: Numero gerado -2129870343
+[consumo b]: Numero lido -2129870343
+[producao]: Numero gerado -503679631
+[consumo a]: Numero lido -503679631
+[producao]: Numero gerado -1731534840
+[consumo b]: Numero lido -1731534840
+[producao]: Numero gerado -1373920031
+[consumo a]: Numero lido -1373920031
+[producao]: Numero gerado 628568465
+[consumo b]: Numero lido 628568465
+[producao]: Numero gerado 788240679
+[consumo a]: Numero lido 788240679
+[producao]: Numero gerado -230851044
+[consumo b]: Numero lido -230851044
+[producao]: Numero gerado -2021630142
+[consumo a]: Numero lido -2021630142
+[producao]: Numero gerado 1465955883
+[consumo b]: Numero lido 1465955883
+[producao]: Numero gerado 929762937
+[consumo a]: Numero lido 929762937
+[producao]: Numero gerado 382630632
+[consumo b]: Numero lido 382630632
+[producao]: Numero gerado 894813328
+[consumo a]: Numero lido 894813328
+[producao]: Numero gerado 1614573918
+[consumo b]: Numero lido 1614573918
+[producao]: Numero gerado -178087759
+[consumo a]: Numero lido -178087759
+[producao]: Numero gerado -706155220
+[consumo b]: Numero lido -706155220
+[producao]: Numero gerado 343150507
+[consumo a]: Numero lido 343150507
+[producao]: Numero gerado -867955260
+[consumo b]: Numero lido -867955260
+[producao]: Numero gerado 1578021841
+[consumo a]: Numero lido 1578021841
+[producao]: Numero gerado 1394589618
+[consumo b]: Numero lido 1394589618
+[producao]: Numero gerado 423935478
+[consumo a]: Numero lido 423935478
+[producao]: Numero gerado 897170646
+[consumo b]: Numero lido 897170646
+[producao]: Numero gerado -1114899477
+[consumo a]: Numero lido -1114899477
+[producao]: Numero gerado 707120301
+[consumo b]: Numero lido 707120301
+[producao]: Numero gerado -1757382990
+[consumo a]: Numero lido -1757382990
+[producao]: Numero gerado 1904117453
+[consumo b]: Numero lido 1904117453
+[producao]: Numero gerado 91160034
+[consumo a]: Numero lido 91160034
+[producao]: Numero gerado -610306236
+[consumo b]: Numero lido -610306236
+[producao]: Numero gerado -1319581794
+[consumo a]: Numero lido -1319581794
+[producao]: Numero gerado -1807734410
+[consumo b]: Numero lido -1807734410
+[producao]: Numero gerado 1704800544
+[consumo a]: Numero lido 1704800544
+[producao]: Numero gerado -750778444
+[consumo b]: Numero lido -750778444
+[producao]: Numero gerado 2109690261
+[consumo a]: Numero lido 2109690261
+[producao]: Numero gerado 731338468
+[consumo b]: Numero lido 731338468
+[producao]: Numero gerado 502180986
+[consumo a]: Numero lido 502180986
+[producao]: Numero gerado 1161295515
+[consumo b]: Numero lido 1161295515
+[producao]: Numero gerado -2019042576
+[consumo a]: Numero lido -2019042576
+[producao]: Numero gerado -721828743
+[consumo b]: Numero lido -721828743
+[producao]: Numero gerado -882364504
+[consumo a]: Numero lido -882364504
+[producao]: Numero gerado 1404429573
+[consumo b]: Numero lido 1404429573
+[producao]: Numero gerado -672026615
+[consumo a]: Numero lido -672026615
+[producao]: Numero gerado 294679438
+[consumo b]: Numero lido 294679438
+[producao]: Numero gerado -2092316672
+[consumo a]: Numero lido -2092316672
+[producao]: Numero gerado -466558822
+[consumo b]: Numero lido -466558822
+[producao]: Numero gerado 1179965486
+[consumo a]: Numero lido 1179965486
+[producao]: Numero gerado 1699508375
+[consumo b]: Numero lido 1699508375
+[producao]: Numero gerado -1149054897
+[consumo a]: Numero lido -1149054897
+[producao]: Numero gerado -787900794
+[consumo b]: Numero lido -787900794
+[producao]: Numero gerado 377531959
+[consumo a]: Numero lido 377531959
+[producao]: Numero gerado 338814818
+[consumo b]: Numero lido 338814818
+[producao]: Numero gerado 306875380
+[consumo a]: Numero lido 306875380
+[producao]: Numero gerado 847664779
+[consumo b]: Numero lido 847664779
+[producao]: Numero gerado -812360517
+[consumo a]: Numero lido -812360517
+[producao]: Numero gerado -1129802844
+[consumo b]: Numero lido -1129802844
+[producao]: Numero gerado -585206857
+[consumo a]: Numero lido -585206857
+[producao]: Numero gerado -228762979
+[consumo b]: Numero lido -228762979
+[producao]: Numero gerado -1824010098
+[consumo a]: Numero lido -1824010098
+[producao]: Numero gerado 1471733807
+[consumo b]: Numero lido 1471733807
+[producao]: Numero gerado -732665601
+[consumo a]: Numero lido -732665601
+[producao]: Numero gerado -1660473
+[consumo b]: Numero lido -1660473
+[producao]: Numero gerado -710949033
+[consumo a]: Numero lido -710949033
+[producao]: Numero gerado 1234031495
+[consumo b]: Numero lido 1234031495
+[producao]: Numero gerado 875450506
+[consumo a]: Numero lido 875450506
+[producao]: Numero gerado 1399939265
+[consumo b]: Numero lido 1399939265
+[producao]: Numero gerado -1033173942
+[consumo a]: Numero lido -1033173942
+[producao]: Numero gerado -1134765966
+[consumo b]: Numero lido -1134765966
+[producao]: Numero gerado 1665979078
+[consumo a]: Numero lido 1665979078
+[producao]: Numero gerado -231509907
+[consumo b]: Numero lido -231509907
+[producao]: Numero gerado -933860196
+[consumo a]: Numero lido -933860196
+[producao]: Numero gerado 392264952
+[consumo b]: Numero lido 392264952
+[producao]: Numero gerado -909598047
+[consumo a]: Numero lido -909598047
+[producao]: Numero gerado -1992277646
+[consumo b]: Numero lido -1992277646
+[producao]: Numero gerado -190117281
+[consumo a]: Numero lido -190117281
+[producao]: Numero gerado 1983561990
+[consumo b]: Numero lido 1983561990
+[producao]: Numero gerado 1425196292
+[consumo a]: Numero lido 1425196292
+[producao]: Numero gerado 504522955
+[consumo b]: Numero lido 504522955
+[producao]: Numero gerado -153329243
+[consumo a]: Numero lido -153329243
+[producao]: Numero gerado -853617217
+[consumo b]: Numero lido -853617217
+[producao]: Numero gerado 302079478
+[consumo a]: Numero lido 302079478
+[producao]: Numero gerado -837864692
+[consumo b]: Numero lido -837864692
+[producao]: Numero gerado -469821817
+[consumo a]: Numero lido -469821817
+[producao]: Numero gerado 2062964542
+[consumo b]: Numero lido 2062964542
+[producao]: Numero gerado 965722480
+[consumo a]: Numero lido 965722480
+[producao]: Numero gerado -1483523921
+[consumo b]: Numero lido -1483523921
+[producao]: Numero gerado -935985790
+[consumo a]: Numero lido -935985790
+[producao]: Numero gerado -1096488223
+[consumo b]: Numero lido -1096488223
+[producao]: Numero gerado 347842714
+[consumo a]: Numero lido 347842714
+[producao]: Numero gerado 2145665440
+[consumo b]: Numero lido 2145665440
+[producao]: Numero gerado 521377190
+[consumo a]: Numero lido 521377190
+[producao]: Numero gerado -1593046972
+[consumo b]: Numero lido -1593046972
+[producao]: Numero gerado 1617362659
+[consumo a]: Numero lido 1617362659
+[producao]: Numero gerado 868545610
+[consumo b]: Numero lido 868545610
+[producao]: Numero gerado 893384869
+[consumo a]: Numero lido 893384869
+[producao]: Numero gerado -331848377
+[consumo b]: Numero lido -331848377
+[producao]: Numero gerado -2126992983
+[consumo a]: Numero lido -2126992983
+[producao]: Numero gerado -318123081
+[consumo b]: Numero lido -318123081
+[producao]: Numero gerado 839685107
+[consumo a]: Numero lido 839685107
+[producao]: Numero gerado -108588455
+[consumo b]: Numero lido -108588455
+[producao]: Numero gerado 1888541363
+[consumo a]: Numero lido 1888541363
+[producao]: Numero gerado -963125317
+[consumo b]: Numero lido -963125317
+[producao]: Numero gerado -1675834589
+[consumo a]: Numero lido -1675834589
+[producao]: Numero gerado -47077023
+[consumo b]: Numero lido -47077023
+[producao]: Numero gerado 1461414935
+[consumo a]: Numero lido 1461414935
+[producao]: Numero gerado -916209766
+[consumo b]: Numero lido -916209766
+[producao]: Numero gerado 1631319299
+[consumo a]: Numero lido 1631319299
+[producao]: Numero gerado 1093584295
+[consumo b]: Numero lido 1093584295
+[producao]: Numero gerado -1609116948
+[consumo a]: Numero lido -1609116948
+[producao]: Numero gerado -1059753601
+[consumo b]: Numero lido -1059753601
+[producao]: Numero gerado 1399063399
+[consumo a]: Numero lido 1399063399
+[producao]: Numero gerado -856202479
+[consumo b]: Numero lido -856202479
+[producao]: Numero gerado 1942000058
+[consumo a]: Numero lido 1942000058
+[producao]: Numero gerado -1382595261
+[consumo b]: Numero lido -1382595261
+[producao]: Numero gerado -1910124102
+[consumo a]: Numero lido -1910124102
+[producao]: Numero gerado -279830638
+[consumo b]: Numero lido -279830638
+[producao]: Numero gerado 2070653972
+[consumo a]: Numero lido 2070653972
+[producao]: Numero gerado 1345543110
+[consumo b]: Numero lido 1345543110
+[producao]: Numero gerado -1858719162
+[consumo a]: Numero lido -1858719162
+[producao]: Numero gerado -230580324
+[consumo b]: Numero lido -230580324
+[producao]: Numero gerado -1832066264
+[consumo a]: Numero lido -1832066264
+[producao]: Numero gerado 220446071
+[consumo b]: Numero lido 220446071
+[producao]: Numero gerado 1999000187
+[consumo a]: Numero lido 1999000187
+[producao]: Numero gerado 1446338693
+[consumo b]: Numero lido 1446338693
+[producao]: Numero gerado -1971506365
+[consumo a]: Numero lido -1971506365
+[producao]: Numero gerado 526775275
+[consumo b]: Numero lido 526775275
+[producao]: Numero gerado -1064712102
+[consumo a]: Numero lido -1064712102
+[producao]: Numero gerado 518345954
+[consumo b]: Numero lido 518345954
+[producao]: Numero gerado 1042949558
+[consumo a]: Numero lido 1042949558
+[producao]: Numero gerado 486999875
+[consumo b]: Numero lido 486999875
+[producao]: Numero gerado 322470074
+[consumo b]: Numero lido 322470074
+[producao]: Numero gerado 48737223
+[consumo a]: Numero lido 48737223
+[producao]: Numero gerado -399008960
+[consumo b]: Numero lido -399008960
+[producao]: Numero gerado -1100221765
+[consumo a]: Numero lido -1100221765
+[producao]: Numero gerado 550284841
+[consumo b]: Numero lido 550284841
+[producao]: Numero gerado -1442826473
+[consumo a]: Numero lido -1442826473
+[producao]: Numero gerado 1091287984
+[consumo b]: Numero lido 1091287984
+[producao]: Numero gerado 908897457
+[consumo a]: Numero lido 908897457
+[producao]: Numero gerado -1257269689
+[consumo b]: Numero lido -1257269689
+[producao]: Numero gerado 899068466
+[consumo a]: Numero lido 899068466
+[producao]: Numero gerado -523629697
+[consumo b]: Numero lido -523629697
+[producao]: Numero gerado -1247728462
+[consumo a]: Numero lido -1247728462
+[producao]: Numero gerado -1957363979
+[consumo b]: Numero lido -1957363979
+[producao]: Numero gerado -1730510246
+[consumo a]: Numero lido -1730510246
+[producao]: Numero gerado -2012053526
+[consumo b]: Numero lido -2012053526
+[producao]: Numero gerado -1054764206
+[consumo a]: Numero lido -1054764206
+[producao]: Numero gerado 1207809169
+[consumo b]: Numero lido 1207809169
+[producao]: Numero gerado 506877458
+[consumo a]: Numero lido 506877458
+[producao]: Numero gerado -1145143657
+[consumo b]: Numero lido -1145143657
+[producao]: Numero gerado 1798068694
+[consumo a]: Numero lido 1798068694
+[producao]: Numero gerado 1394843468
+[consumo b]: Numero lido 1394843468
+[producao]: Numero gerado 1168587875
+[consumo a]: Numero lido 1168587875
+[producao]: Numero gerado 1316403043
+[consumo b]: Numero lido 1316403043
+[producao]: Numero gerado -1655994062
+[consumo a]: Numero lido -1655994062
+[producao]: Numero gerado -37847806
+[consumo b]: Numero lido -37847806
+[producao]: Numero gerado 747128449
+[consumo a]: Numero lido 747128449
+[producao]: Numero gerado 390054984
+[consumo b]: Numero lido 390054984
+[producao]: Numero gerado 535903276
+[consumo a]: Numero lido 535903276
+[producao]: Numero gerado -1251329984
+[consumo b]: Numero lido -1251329984
+[producao]: Numero gerado 1594045347
+[consumo a]: Numero lido 1594045347
+[producao]: Numero gerado 159451149
+[consumo b]: Numero lido 159451149
+[producao]: Numero gerado -303878663
+[consumo a]: Numero lido -303878663
+[producao]: Numero gerado 1006047944
+[consumo b]: Numero lido 1006047944
+[producao]: Numero gerado -647701866
+[consumo a]: Numero lido -647701866
+[producao]: Numero gerado -1374057061
+[consumo b]: Numero lido -1374057061
+[producao]: Numero gerado -1005335997
+[consumo a]: Numero lido -1005335997
+[producao]: Numero gerado 641043501
+[consumo b]: Numero lido 641043501
+[producao]: Numero gerado -1166354255
+[consumo a]: Numero lido -1166354255
+[producao]: Numero gerado -1879628934
+[consumo b]: Numero lido -1879628934
+[producao]: Numero gerado -1328001006
+[consumo a]: Numero lido -1328001006
+[producao]: Numero gerado -787959850
+[consumo b]: Numero lido -787959850
+[producao]: Numero gerado 225462672
+[consumo a]: Numero lido 225462672
+[producao]: Numero gerado -1265670136
+[consumo b]: Numero lido -1265670136
+[producao]: Numero gerado -526470704
+[consumo a]: Numero lido -526470704
+[producao]: Numero gerado -1945143275
+[consumo b]: Numero lido -1945143275
+[producao]: Numero gerado -1398359550
+[consumo a]: Numero lido -1398359550
+[producao]: Numero gerado 1916195812
+[consumo b]: Numero lido 1916195812
+[producao]: Numero gerado 116789099
+[consumo a]: Numero lido 116789099
+[producao]: Numero gerado -634603574
+[consumo b]: Numero lido -634603574
+[producao]: Numero gerado -86081797
+[consumo a]: Numero lido -86081797
+[producao]: Numero gerado 1878391272
+[consumo b]: Numero lido 1878391272
+[producao]: Numero gerado -247646032
+[consumo a]: Numero lido -247646032
+[producao]: Numero gerado -768951847
+[consumo b]: Numero lido -768951847
+[producao]: Numero gerado 1300882755
+[consumo a]: Numero lido 1300882755
+[producao]: Numero gerado 1830282134
+[consumo b]: Numero lido 1830282134
+[producao]: Numero gerado -382750855
+[consumo a]: Numero lido -382750855
+[producao]: Numero gerado 1988003342
+[consumo b]: Numero lido 1988003342
+[producao]: Numero gerado 1622558646
+[consumo a]: Numero lido 1622558646
+[producao]: Numero gerado -1966419070
+[consumo b]: Numero lido -1966419070
+[producao]: Numero gerado -332968923
+[consumo a]: Numero lido -332968923
+[producao]: Numero gerado -870026848
+[consumo b]: Numero lido -870026848
+[producao]: Numero gerado -497538195
+[consumo a]: Numero lido -497538195
+[producao]: Numero gerado 1728391732
+[consumo b]: Numero lido 1728391732
+[producao]: Numero gerado 106832546
+[consumo a]: Numero lido 106832546
+[producao]: Numero gerado -1698305400
+[consumo b]: Numero lido -1698305400
+[producao]: Numero gerado 37095152
+[consumo a]: Numero lido 37095152
+[producao]: Numero gerado 377047657
+[consumo b]: Numero lido 377047657
+[producao]: Numero gerado -905108405
+[consumo a]: Numero lido -905108405
+[producao]: Numero gerado -158080551
+[consumo b]: Numero lido -158080551
+[producao]: Numero gerado -691827836
+[consumo a]: Numero lido -691827836
+[producao]: Numero gerado 1219486276
+[consumo b]: Numero lido 1219486276
+[producao]: Numero gerado 669351449
+[consumo a]: Numero lido 669351449
+[producao]: Numero gerado 1374811991
+[consumo b]: Numero lido 1374811991
+[producao]: Numero gerado 459443046
+[consumo a]: Numero lido 459443046
+[producao]: Numero gerado -1869246155
+[consumo b]: Numero lido -1869246155
+[producao]: Numero gerado 1513669794
+[consumo a]: Numero lido 1513669794
+[producao]: Numero gerado -1096885708
+[consumo b]: Numero lido -1096885708
+[producao]: Numero gerado 358437633
+[consumo a]: Numero lido 358437633
+[producao]: Numero gerado -1951212617
+[consumo b]: Numero lido -1951212617
+[producao]: Numero gerado -1421552994
+[consumo a]: Numero lido -1421552994
+[producao]: Numero gerado -856393739
+[consumo b]: Numero lido -856393739
+[producao]: Numero gerado -312286485
+[consumo a]: Numero lido -312286485
+[producao]: Numero gerado 2099230257
+[consumo b]: Numero lido 2099230257
+[producao]: Numero gerado 1548302687
+[consumo a]: Numero lido 1548302687
+[producao]: Numero gerado -1506224136
+[consumo b]: Numero lido -1506224136
+[producao]: Numero gerado -777639776
+[consumo a]: Numero lido -777639776
+[producao]: Numero gerado 1313588395
+[consumo b]: Numero lido 1313588395
+[producao]: Numero gerado -9056723
+[consumo a]: Numero lido -9056723
+[producao]: Numero gerado 1604069558
+[consumo b]: Numero lido 1604069558
+[producao]: Numero gerado 2125493909
+[consumo a]: Numero lido 2125493909
+[producao]: Numero gerado 509768286
+[consumo b]: Numero lido 509768286
+[producao]: Numero gerado -143529122
+[consumo a]: Numero lido -143529122
+[producao]: Numero gerado -1743146784
+[consumo b]: Numero lido -1743146784
+[producao]: Numero gerado -1011847678
+[consumo a]: Numero lido -1011847678
+[producao]: Numero gerado 1536589027
+[consumo b]: Numero lido 1536589027
+[producao]: Numero gerado 150007890
+[consumo b]: Numero lido 150007890
+[producao]: Numero gerado 1630952133
+[consumo b]: Numero lido 1630952133
+[producao]: Numero gerado 1920337779
+[consumo a]: Numero lido 1920337779
+[producao]: Numero gerado 109822694
+[consumo b]: Numero lido 109822694
+[producao]: Numero gerado 818662979
+[consumo a]: Numero lido 818662979
+[producao]: Numero gerado 1020047050
+[consumo b]: Numero lido 1020047050
+[producao]: Numero gerado -2059897211
+[consumo a]: Numero lido -2059897211
+[producao]: Numero gerado 620791201
+[consumo b]: Numero lido 620791201
+[producao]: Numero gerado -1756019838
+[consumo a]: Numero lido -1756019838
+[producao]: Numero gerado 779408349
+[consumo b]: Numero lido 779408349
+[producao]: Numero gerado -1135526366
+[consumo a]: Numero lido -1135526366
+[producao]: Numero gerado -579467708
+[consumo b]: Numero lido -579467708
+[producao]: Numero gerado -1099078648
+[consumo a]: Numero lido -1099078648
+[producao]: Numero gerado 1629557047
+[consumo b]: Numero lido 1629557047
+[producao]: Numero gerado -188809346
+[consumo a]: Numero lido -188809346
+[producao]: Numero gerado -1596522170
+[consumo b]: Numero lido -1596522170
+[producao]: Numero gerado 1056409944
+[consumo a]: Numero lido 1056409944
+[producao]: Numero gerado -506676996
+[consumo b]: Numero lido -506676996
+[producao]: Numero gerado 1032707815
+[consumo a]: Numero lido 1032707815
+[producao]: Numero gerado 668021131
+[consumo b]: Numero lido 668021131
+[producao]: Numero gerado 1192030718
+[consumo a]: Numero lido 1192030718
+[producao]: Numero gerado 1157820880
+[consumo b]: Numero lido 1157820880
+[producao]: Numero gerado 1681381754
+[consumo a]: Numero lido 1681381754
+[producao]: Numero gerado 249812358
+[consumo b]: Numero lido 249812358
+[producao]: Numero gerado -1841732968
+[consumo a]: Numero lido -1841732968
+[producao]: Numero gerado 1101497523
+[consumo b]: Numero lido 1101497523
+[producao]: Numero gerado 1583248229
+[consumo a]: Numero lido 1583248229
+[producao]: Numero gerado 1731882743
+[consumo b]: Numero lido 1731882743
+[producao]: Numero gerado -486271167
+[consumo a]: Numero lido -486271167
+[producao]: Numero gerado -825540167
+[consumo b]: Numero lido -825540167
+[producao]: Numero gerado -1538900972
+[consumo a]: Numero lido -1538900972
+[producao]: Numero gerado 2057951435
+[consumo b]: Numero lido 2057951435
+[producao]: Numero gerado 629149164
+[consumo a]: Numero lido 629149164
+[producao]: Numero gerado -68949466
+[consumo a]: Numero lido -68949466
+[producao]: Numero gerado -1445850660
+[consumo b]: Numero lido -1445850660
+[producao]: Numero gerado 628105191
+[consumo a]: Numero lido 628105191
+[producao]: Numero gerado -591370701
+[consumo b]: Numero lido -591370701
+[producao]: Numero gerado -1997719697
+[consumo a]: Numero lido -1997719697
+[producao]: Numero gerado 1445057247
+[consumo b]: Numero lido 1445057247
+[producao]: Numero gerado 1601075222
+[consumo a]: Numero lido 1601075222
+[producao]: Numero gerado 1747704175
+[consumo b]: Numero lido 1747704175
+[producao]: Numero gerado 1210782746
+[consumo a]: Numero lido 1210782746
+[producao]: Numero gerado -281803359
+[consumo b]: Numero lido -281803359
+[producao]: Numero gerado 1881942195
+[consumo a]: Numero lido 1881942195
+[producao]: Numero gerado 1331037381
+[consumo b]: Numero lido 1331037381
+[producao]: Numero gerado -1671645566
+[consumo a]: Numero lido -1671645566
+[producao]: Numero gerado 237980666
+[consumo b]: Numero lido 237980666
+[producao]: Numero gerado -1835899602
+[consumo a]: Numero lido -1835899602
+[producao]: Numero gerado -864839912
+[consumo b]: Numero lido -864839912
+[producao]: Numero gerado 649128196
+[consumo b]: Numero lido 649128196
+[producao]: Numero gerado -5447926
+[consumo a]: Numero lido -5447926
+[producao]: Numero gerado 714098086
+[consumo b]: Numero lido 714098086
+[producao]: Numero gerado 356415686
+[consumo a]: Numero lido 356415686
+[producao]: Numero gerado -878811743
+[consumo b]: Numero lido -878811743
+[producao]: Numero gerado -838464648
+[consumo a]: Numero lido -838464648
+[producao]: Numero gerado 1188469344
+[consumo b]: Numero lido 1188469344
+[producao]: Numero gerado -635154584
+[consumo a]: Numero lido -635154584
+[producao]: Numero gerado 1341688277
+[consumo b]: Numero lido 1341688277
+[producao]: Numero gerado 801995976
+[consumo a]: Numero lido 801995976
+[producao]: Numero gerado -1506879961
+[consumo b]: Numero lido -1506879961
+[producao]: Numero gerado -2033616823
+[consumo a]: Numero lido -2033616823
+[producao]: Numero gerado -1483125439
+[consumo b]: Numero lido -1483125439
+[producao]: Numero gerado -2013683701
+[consumo a]: Numero lido -2013683701
+[producao]: Numero gerado -1461464396
+[consumo b]: Numero lido -1461464396
+[producao]: Numero gerado 1089749701
+[consumo a]: Numero lido 1089749701
+[producao]: Numero gerado 734214927
+[consumo b]: Numero lido 734214927
+[producao]: Numero gerado -1257659844
+[consumo a]: Numero lido -1257659844
+[producao]: Numero gerado 704770480
+[consumo b]: Numero lido 704770480
+[producao]: Numero gerado -344289338
+[consumo a]: Numero lido -344289338
+[producao]: Numero gerado -1053416146
+[consumo b]: Numero lido -1053416146
+[producao]: Numero gerado 1578908610
+[consumo a]: Numero lido 1578908610
+[producao]: Numero gerado -1039545553
+[consumo b]: Numero lido -1039545553
+[producao]: Numero gerado -676136446
+[consumo a]: Numero lido -676136446
+[producao]: Numero gerado -303861484
+[consumo b]: Numero lido -303861484
+[producao]: Numero gerado -1904461632
+[consumo a]: Numero lido -1904461632
+[producao]: Numero gerado 983674719
+[consumo b]: Numero lido 983674719
+[producao]: Numero gerado -623925156
+[consumo a]: Numero lido -623925156
+[producao]: Numero gerado 537579105
+[consumo b]: Numero lido 537579105
+[producao]: Numero gerado -1765620098
+[consumo a]: Numero lido -1765620098
+[producao]: Numero gerado -1408027727
+[consumo b]: Numero lido -1408027727
+[producao]: Numero gerado 1928589254
+[consumo a]: Numero lido 1928589254
+[producao]: Numero gerado -1572571928
+[consumo b]: Numero lido -1572571928
+[producao]: Numero gerado -2091378789
+[consumo a]: Numero lido -2091378789
+[producao]: Numero gerado -1550332964
+[consumo b]: Numero lido -1550332964
+[producao]: Numero gerado -105078512
+[consumo a]: Numero lido -105078512
+[producao]: Numero gerado -1522949171
+[consumo b]: Numero lido -1522949171
+[producao]: Numero gerado -86622640
+[consumo a]: Numero lido -86622640
+[producao]: Numero gerado -1307518468
+[consumo b]: Numero lido -1307518468
+[producao]: Numero gerado 1833803057
+[consumo a]: Numero lido 1833803057
+[producao]: Numero gerado -209800672
+[consumo b]: Numero lido -209800672
+[producao]: Numero gerado -1347640807
+[consumo a]: Numero lido -1347640807
+[producao]: Numero gerado -983792654
+[consumo b]: Numero lido -983792654
+[producao]: Numero gerado -2023144087
+[consumo a]: Numero lido -2023144087
+[producao]: Numero gerado -1659510254
+[consumo b]: Numero lido -1659510254
+[producao]: Numero gerado -1027846196
+[consumo a]: Numero lido -1027846196
+[producao]: Numero gerado 941309211
+[consumo b]: Numero lido 941309211
+[producao]: Numero gerado 1039864636
+[consumo a]: Numero lido 1039864636
+[producao]: Numero gerado 75621315
+[consumo b]: Numero lido 75621315
+[producao]: Numero gerado -1827202752
+[consumo a]: Numero lido -1827202752
+[producao]: Numero gerado -196280573
+[consumo b]: Numero lido -196280573
+[producao]: Numero gerado -1414699773
+[consumo a]: Numero lido -1414699773
+[producao]: Numero gerado -1761433751
+[consumo b]: Numero lido -1761433751
+[producao]: Numero gerado -465235666
+[consumo a]: Numero lido -465235666
+[producao]: Numero gerado -95693582
+[consumo b]: Numero lido -95693582
+[producao]: Numero gerado 628605897
+[consumo a]: Numero lido 628605897
+[producao]: Numero gerado 74382268
+[consumo b]: Numero lido 74382268
+[producao]: Numero gerado -783049865
+[consumo a]: Numero lido -783049865
+[producao]: Numero gerado 1495469188
+[consumo b]: Numero lido 1495469188
+[producao]: Numero gerado -760529614
+[consumo a]: Numero lido -760529614
+[producao]: Numero gerado 1473473380
+[consumo b]: Numero lido 1473473380
+[producao]: Numero gerado 1620084077
+[consumo a]: Numero lido 1620084077
+[producao]: Numero gerado -902671513
+[consumo b]: Numero lido -902671513
+[producao]: Numero gerado -338197492
+[consumo a]: Numero lido -338197492
+[producao]: Numero gerado 1052227455
+[consumo b]: Numero lido 1052227455
+[producao]: Numero gerado 1582347333
+[consumo a]: Numero lido 1582347333
+[producao]: Numero gerado -153962469
+[consumo b]: Numero lido -153962469
+[producao]: Numero gerado -1924758305
+[consumo a]: Numero lido -1924758305
+[producao]: Numero gerado 1377150008
+[consumo b]: Numero lido 1377150008
+[producao]: Numero gerado 2094720722
+[consumo a]: Numero lido 2094720722
+[producao]: Numero gerado -651834357
+[consumo b]: Numero lido -651834357
+[producao]: Numero gerado 110559033
+[consumo a]: Numero lido 110559033
+[producao]: Numero gerado -811274833
+[consumo b]: Numero lido -811274833
+[producao]: Numero gerado 966664080
+[consumo a]: Numero lido 966664080
+[producao]: Numero gerado -1676678386
+[consumo b]: Numero lido -1676678386
+[producao]: Numero gerado 58916800
+[consumo a]: Numero lido 58916800
+[producao]: Numero gerado -1656428348
+[consumo b]: Numero lido -1656428348
+[producao]: Numero gerado 34675369
+[consumo a]: Numero lido 34675369
+[producao]: Numero gerado -1634679234
+[consumo b]: Numero lido -1634679234
+[producao]: Numero gerado -1268862669
+[consumo a]: Numero lido -1268862669
+[producao]: Numero gerado -1796673610
+[consumo b]: Numero lido -1796673610
+[producao]: Numero gerado -1430242320
+[consumo a]: Numero lido -1430242320
+[producao]: Numero gerado -1070692148
+[consumo b]: Numero lido -1070692148
+[producao]: Numero gerado -1779196355
+[consumo a]: Numero lido -1779196355
+[producao]: Numero gerado 1418871634
+[consumo b]: Numero lido 1418871634
+[producao]: Numero gerado 1937361481
+[consumo a]: Numero lido 1937361481
+[producao]: Numero gerado -137345557
+[consumo b]: Numero lido -137345557
+[producao]: Numero gerado 1536189278
+[consumo a]: Numero lido 1536189278
+[producao]: Numero gerado 634718758
+[consumo b]: Numero lido 634718758
+[producao]: Numero gerado -1327111818
+[consumo a]: Numero lido -1327111818
+[producao]: Numero gerado -2044123558
+[consumo b]: Numero lido -2044123558
+[producao]: Numero gerado -1310174502
+[consumo a]: Numero lido -1310174502
+[producao]: Numero gerado 2019296043
+[consumo b]: Numero lido 2019296043
+[producao]: Numero gerado -1473202540
+[consumo a]: Numero lido -1473202540
+[producao]: Numero gerado -221466194
+[consumo b]: Numero lido -221466194
+[producao]: Numero gerado -944440127
+[consumo a]: Numero lido -944440127
+[producao]: Numero gerado -1645170827
+[consumo b]: Numero lido -1645170827
+[producao]: Numero gerado -1572917013
+[consumo a]: Numero lido -1572917013
+[producao]: Numero gerado 1665442957
+[consumo b]: Numero lido 1665442957
+[producao]: Numero gerado -1072246996
+[consumo a]: Numero lido -1072246996
+[producao]: Numero gerado 665381470
+[consumo b]: Numero lido 665381470
+[producao]: Numero gerado 445113371
+[consumo a]: Numero lido 445113371
+[producao]: Numero gerado -791993163
+[consumo b]: Numero lido -791993163
+[producao]: Numero gerado 422989891
+[consumo a]: Numero lido 422989891
+[producao]: Numero gerado 2039294136
+[consumo b]: Numero lido 2039294136
+[producao]: Numero gerado 396815435
+[consumo a]: Numero lido 396815435
+[producao]: Numero gerado 920010001
+[consumo b]: Numero lido 920010001
+[producao]: Numero gerado -564296012
+[consumo a]: Numero lido -564296012
+[producao]: Numero gerado 194379230
+[consumo b]: Numero lido 194379230
+[producao]: Numero gerado 916247725
+[consumo a]: Numero lido 916247725
+[producao]: Numero gerado 1436707681
+[consumo b]: Numero lido 1436707681
+[producao]: Numero gerado 523226334
+[consumo a]: Numero lido 523226334
+[producao]: Numero gerado -1027270969
+[consumo b]: Numero lido -1027270969
+[producao]: Numero gerado 689214767
+[consumo a]: Numero lido 689214767
+[producao]: Numero gerado 1388382119
+[consumo b]: Numero lido 1388382119
+[producao]: Numero gerado -1029233397
+[consumo a]: Numero lido -1029233397
+[producao]: Numero gerado -475338856
+[consumo b]: Numero lido -475338856
+[producao]: Numero gerado 1194765261
+[consumo a]: Numero lido 1194765261
+[producao]: Numero gerado 1897387051
+[consumo b]: Numero lido 1897387051
+[producao]: Numero gerado -1359563554
+[consumo a]: Numero lido -1359563554
+[producao]: Numero gerado -993960625
+[consumo b]: Numero lido -993960625
+[producao]: Numero gerado -633649225
+[consumo a]: Numero lido -633649225
+[producao]: Numero gerado 1155405271
+[consumo b]: Numero lido 1155405271
+[producao]: Numero gerado 1867011384
+[consumo a]: Numero lido 1867011384
+[producao]: Numero gerado -1119535530
+[consumo b]: Numero lido -1119535530
+[producao]: Numero gerado -770709766
+[consumo a]: Numero lido -770709766
+[producao]: Numero gerado -1482833755
+[consumo b]: Numero lido -1482833755
+[producao]: Numero gerado 226047793
+[consumo a]: Numero lido 226047793
+[producao]: Numero gerado 749690730
+[consumo b]: Numero lido 749690730
+[producao]: Numero gerado -1094482347
+[consumo a]: Numero lido -1094482347
+[producao]: Numero gerado 1810769015
+[consumo b]: Numero lido 1810769015
+[producao]: Numero gerado -373914493
+[consumo a]: Numero lido -373914493
+[producao]: Numero gerado -1076217080
+[consumo b]: Numero lido -1076217080
+[producao]: Numero gerado 1788625678
+[consumo a]: Numero lido 1788625678
+[producao]: Numero gerado -1240623787
+[consumo b]: Numero lido -1240623787
+[producao]: Numero gerado 884015132
+[consumo a]: Numero lido 884015132
+[producao]: Numero gerado -1590090570
+[consumo b]: Numero lido -1590090570
+[producao]: Numero gerado 1743493322
+[consumo a]: Numero lido 1743493322
+[producao]: Numero gerado 1377683612
+[consumo b]: Numero lido 1377683612
+[producao]: Numero gerado 2085881898
+[consumo a]: Numero lido 2085881898
+[producao]: Numero gerado 1551547914
+[consumo b]: Numero lido 1551547914
+[producao]: Numero gerado -105954382
+[consumo a]: Numero lido -105954382
+[producao]: Numero gerado 815224775
+[consumo b]: Numero lido 815224775
+[producao]: Numero gerado 1539709881
+[consumo a]: Numero lido 1539709881
+[producao]: Numero gerado -1165347706
+[consumo b]: Numero lido -1165347706
+[producao]: Numero gerado -1876714251
+[consumo a]: Numero lido -1876714251
+[producao]: Numero gerado -1338478717
+[consumo b]: Numero lido -1338478717
+[producao]: Numero gerado -960391748
+[consumo a]: Numero lido -960391748
+[producao]: Numero gerado 1497870458
+[consumo b]: Numero lido 1497870458
+[producao]: Numero gerado -949992074
+[consumo a]: Numero lido -949992074
+[producao]: Numero gerado 399612848
+[consumo b]: Numero lido 399612848
+[producao]: Numero gerado -38823572
+[consumo a]: Numero lido -38823572
+[producao]: Numero gerado 1815632323
+[consumo b]: Numero lido 1815632323
+[producao]: Numero gerado 852013910
+[consumo a]: Numero lido 852013910
+[producao]: Numero gerado 252182076
+[consumo b]: Numero lido 252182076
+[producao]: Numero gerado 920113159
+[consumo a]: Numero lido 920113159
+[producao]: Numero gerado -1586282451
+[consumo b]: Numero lido -1586282451
+[producao]: Numero gerado 2060814939
+[consumo a]: Numero lido 2060814939
+[producao]: Numero gerado -1325882224
+[consumo b]: Numero lido -1325882224
+[producao]: Numero gerado 1665314119
+[consumo a]: Numero lido 1665314119
+[producao]: Numero gerado 1116105881
+[consumo b]: Numero lido 1116105881
+[producao]: Numero gerado 1634618929
+[consumo a]: Numero lido 1634618929
+[producao]: Numero gerado 212158630
+[consumo b]: Numero lido 212158630
+[producao]: Numero gerado 555077988
+[consumo a]: Numero lido 555077988
+[producao]: Numero gerado 1076526039
+[consumo b]: Numero lido 1076526039
+[producao]: Numero gerado -339173257
+[consumo a]: Numero lido -339173257
+[producao]: Numero gerado -1045813220
+[consumo b]: Numero lido -1045813220
+[producao]: Numero gerado 513128715
+[consumo a]: Numero lido 513128715
+[producao]: Numero gerado 1210823198
+[consumo b]: Numero lido 1210823198
+[producao]: Numero gerado 661967995
+[consumo a]: Numero lido 661967995
+[producao]: Numero gerado -1374861889
+[consumo b]: Numero lido -1374861889
+[producao]: Numero gerado -2088610479
+[consumo a]: Numero lido -2088610479
+[producao]: Numero gerado 460650896
+[consumo b]: Numero lido 460650896
+[producao]: Numero gerado 2059379718
+[consumo a]: Numero lido 2059379718
+[producao]: Numero gerado 1504678148
+[consumo b]: Numero lido 1504678148
+[producao]: Numero gerado 63058638
+[consumo a]: Numero lido 63058638
+[producao]: Numero gerado -1859319568
+[consumo b]: Numero lido -1859319568
+[producao]: Numero gerado -1638019615
+[consumo a]: Numero lido -1638019615
+[producao]: Numero gerado 1273058394
+[consumo b]: Numero lido 1273058394
+[producao]: Numero gerado -911624746
+[consumo a]: Numero lido -911624746
+[producao]: Numero gerado 1637075958
+[consumo b]: Numero lido 1637075958
+[producao]: Numero gerado 890784952
+[consumo a]: Numero lido 890784952
+[producao]: Numero gerado -1606089728
+[consumo b]: Numero lido -1606089728
+[producao]: Numero gerado 675853482
+[consumo a]: Numero lido 675853482
+[producao]: Numero gerado 1401165789
+[consumo b]: Numero lido 1401165789
+[producao]: Numero gerado 144753426
+[consumo a]: Numero lido 144753426
+[producao]: Numero gerado 653324475
+[consumo b]: Numero lido 653324475
+[producao]: Numero gerado -1569500461
+[consumo a]: Numero lido -1569500461
+[producao]: Numero gerado 2088209637
+[consumo b]: Numero lido 2088209637
+[producao]: Numero gerado -654305042
+[consumo a]: Numero lido -654305042
+[producao]: Numero gerado 1544614878
+[consumo b]: Numero lido 1544614878
+[producao]: Numero gerado -114627098
+[consumo a]: Numero lido -114627098
+[producao]: Numero gerado -1901995500
+[consumo b]: Numero lido -1901995500
+[producao]: Numero gerado 464263267
+[consumo a]: Numero lido 464263267
+[producao]: Numero gerado -98733522
+[consumo b]: Numero lido -98733522
+[producao]: Numero gerado -812129725
+[consumo a]: Numero lido -812129725
+[producao]: Numero gerado -449354278
+[consumo b]: Numero lido -449354278
+[producao]: Numero gerado -1676513769
+[consumo a]: Numero lido -1676513769
+[producao]: Numero gerado -1320031661
+[consumo b]: Numero lido -1320031661
+[producao]: Numero gerado -2024579861
+[consumo a]: Numero lido -2024579861
+[producao]: Numero gerado 1656519941
+[consumo b]: Numero lido 1656519941
+[producao]: Numero gerado 231216862
+[consumo a]: Numero lido 231216862
+[producao]: Numero gerado 936248549
+[consumo b]: Numero lido 936248549
+[producao]: Numero gerado -1651247547
+[consumo a]: Numero lido -1651247547
+[producao]: Numero gerado -1292163627
+[consumo b]: Numero lido -1292163627
+[producao]: Numero gerado -1996407702
+[consumo a]: Numero lido -1996407702
+[producao]: Numero gerado -564552732
+[consumo b]: Numero lido -564552732
+[producao]: Numero gerado 208435563
+[consumo a]: Numero lido 208435563
+[producao]: Numero gerado 922601599
+[consumo b]: Numero lido 922601599
+[producao]: Numero gerado 692104504
+[consumo a]: Numero lido 692104504
+[producao]: Numero gerado 284623003
+[consumo b]: Numero lido 284623003
+[producao]: Numero gerado -953568470
+[consumo a]: Numero lido -953568470
+[producao]: Numero gerado 552397694
+[consumo b]: Numero lido 552397694
+[producao]: Numero gerado 506425488
+[consumo a]: Numero lido 506425488
+[producao]: Numero gerado -1913337464
+[consumo b]: Numero lido -1913337464
+[producao]: Numero gerado 1560625781
+[consumo a]: Numero lido 1560625781
+[producao]: Numero gerado 440667320
+[consumo b]: Numero lido 440667320
+[producao]: Numero gerado 1155549377
+[consumo a]: Numero lido 1155549377
+[producao]: Numero gerado -803701547
+[consumo b]: Numero lido -803701547
+[producao]: Numero gerado -431672391
+[consumo a]: Numero lido -431672391
+[producao]: Numero gerado 1150764307
+[consumo b]: Numero lido 1150764307
+[producao]: Numero gerado 411543330
+[consumo a]: Numero lido 411543330
+[producao]: Numero gerado -238101012
+[consumo b]: Numero lido -238101012
+[producao]: Numero gerado 754956463
+[consumo a]: Numero lido 754956463
+[producao]: Numero gerado -394418975
+[consumo b]: Numero lido -394418975
+[producao]: Numero gerado -35035428
+[consumo a]: Numero lido -35035428
+[producao]: Numero gerado 563566185
+[consumo b]: Numero lido 563566185
+[producao]: Numero gerado -198009794
+[consumo a]: Numero lido -198009794
+[producao]: Numero gerado 909803386
+[consumo b]: Numero lido 909803386
+[producao]: Numero gerado -1906653244
+[consumo a]: Numero lido -1906653244
+[producao]: Numero gerado -94218173
+[consumo b]: Numero lido -94218173
+[producao]: Numero gerado 1877511691
+[consumo a]: Numero lido 1877511691
+[producao]: Numero gerado -954289847
+[consumo b]: Numero lido -954289847
+[producao]: Numero gerado 1665745287
+[consumo a]: Numero lido 1665745287
+[producao]: Numero gerado -39431572
+[consumo b]: Numero lido -39431572
+[producao]: Numero gerado -1963975688
+[consumo a]: Numero lido -1963975688
+[producao]: Numero gerado -1050283183
+[consumo b]: Numero lido -1050283183
+[producao]: Numero gerado 1708528728
+[consumo a]: Numero lido 1708528728
+[producao]: Numero gerado 1071230948
+[consumo b]: Numero lido 1071230948
+[producao]: Numero gerado 240944548
+[consumo a]: Numero lido 240944548
+[producao]: Numero gerado 435642430
+[consumo b]: Numero lido 435642430
+[producao]: Numero gerado -1995540518
+[consumo a]: Numero lido -1995540518
+[producao]: Numero gerado -651291969
+[consumo b]: Numero lido -651291969
+[producao]: Numero gerado 1182014637
+[consumo a]: Numero lido 1182014637
+[producao]: Numero gerado 2030665856
+[consumo b]: Numero lido 2030665856
+[producao]: Numero gerado -1105079029
+[consumo a]: Numero lido -1105079029
+[producao]: Numero gerado 555376008
+[consumo b]: Numero lido 555376008
+[producao]: Numero gerado 1272791561
+[consumo a]: Numero lido 1272791561
+[producao]: Numero gerado -1979277964
+[consumo b]: Numero lido -1979277964
+[producao]: Numero gerado -358536859
+[consumo a]: Numero lido -358536859
+[producao]: Numero gerado -1078934199
+[consumo b]: Numero lido -1078934199
+[producao]: Numero gerado 1220912830
+[consumo a]: Numero lido 1220912830
+[producao]: Numero gerado -1366503127
+[consumo b]: Numero lido -1366503127
+[producao]: Numero gerado -1200159292
+[consumo a]: Numero lido -1200159292
+[producao]: Numero gerado 838626473
+[consumo b]: Numero lido 838626473
+[producao]: Numero gerado -1735647345
+[consumo a]: Numero lido -1735647345
+[producao]: Numero gerado -1002504338
+[consumo b]: Numero lido -1002504338
+[producao]: Numero gerado 1909483506
+[consumo a]: Numero lido 1909483506
+[producao]: Numero gerado 1522639072
+[consumo b]: Numero lido 1522639072
+[producao]: Numero gerado -1169378700
+[consumo a]: Numero lido -1169378700
+[producao]: Numero gerado 1882194439
+[consumo b]: Numero lido 1882194439
+[producao]: Numero gerado -444362966
+[consumo a]: Numero lido -444362966
+[producao]: Numero gerado -1346418139
+[consumo b]: Numero lido -1346418139
+[producao]: Numero gerado 2056189805
+[consumo a]: Numero lido 2056189805
+[producao]: Numero gerado -1881144577
+[consumo b]: Numero lido -1881144577
+[producao]: Numero gerado -1625674433
+[consumo a]: Numero lido -1625674433
+[producao]: Numero gerado -216605572
+[consumo b]: Numero lido -216605572
+[producao]: Numero gerado 1217540551
+[consumo a]: Numero lido 1217540551
+[producao]: Numero gerado -1518157252
+[consumo b]: Numero lido -1518157252
+[producao]: Numero gerado -1987550631
+[consumo a]: Numero lido -1987550631
+[producao]: Numero gerado 132290102
+[consumo b]: Numero lido 132290102
+[producao]: Numero gerado 1877368183
+[consumo a]: Numero lido 1877368183
+[producao]: Numero gerado 389788032
+[consumo b]: Numero lido 389788032
+[producao]: Numero gerado 870898035
+[consumo a]: Numero lido 870898035
+[producao]: Numero gerado 1537678420
+[consumo b]: Numero lido 1537678420
+[producao]: Numero gerado -1130908814
+[consumo a]: Numero lido -1130908814
+[producao]: Numero gerado 1794245937
+[consumo b]: Numero lido 1794245937
+[producao]: Numero gerado 76429691
+[consumo a]: Numero lido 76429691
+[producao]: Numero gerado 730410699
+[consumo b]: Numero lido 730410699
+[producao]: Numero gerado -1414815845
+[consumo b]: Numero lido -1414815845
+[producao]: Numero gerado 995232309
+[consumo a]: Numero lido 995232309
+[producao]: Numero gerado 403561339
+[consumo b]: Numero lido 403561339
+[producao]: Numero gerado -1063722693
+[consumo a]: Numero lido -1063722693
+[producao]: Numero gerado -662592849
+[consumo b]: Numero lido -662592849
+[producao]: Numero gerado 248758773
+[consumo a]: Numero lido 248758773
+[producao]: Numero gerado -1995050740
+[consumo b]: Numero lido -1995050740
+[producao]: Numero gerado 1395640957
+[consumo a]: Numero lido 1395640957
+[producao]: Numero gerado 2060705391
+[consumo b]: Numero lido 2060705391
+[producao]: Numero gerado -397584105
+[consumo a]: Numero lido -397584105
+[producao]: Numero gerado -1056273383
+[consumo b]: Numero lido -1056273383
+[producao]: Numero gerado -1724264248
+[consumo a]: Numero lido -1724264248
+[producao]: Numero gerado -60079279
+[consumo b]: Numero lido -60079279
+[producao]: Numero gerado -1604263714
+[consumo a]: Numero lido -1604263714
+[producao]: Numero gerado 122705268
+[consumo b]: Numero lido 122705268
+[producao]: Numero gerado 1683958600
+[consumo a]: Numero lido 1683958600
+[producao]: Numero gerado 1267373324
+[consumo b]: Numero lido 1267373324
+[producao]: Numero gerado -1938809234
+[consumo a]: Numero lido -1938809234
+[producao]: Numero gerado 1522272592
+[consumo b]: Numero lido 1522272592
+[producao]: Numero gerado 935902817
+[consumo a]: Numero lido 935902817
+[producao]: Numero gerado -1782918434
+[consumo b]: Numero lido -1782918434
+[producao]: Numero gerado 1002409377
+[consumo a]: Numero lido 1002409377
+[producao]: Numero gerado 1111577426
+[consumo b]: Numero lido 1111577426
+[producao]: Numero gerado 513247889
+[consumo a]: Numero lido 513247889
+[producao]: Numero gerado -1003767731
+[consumo b]: Numero lido -1003767731
+[producao]: Numero gerado 1658223001
+[consumo a]: Numero lido 1658223001
+[producao]: Numero gerado 775436961
+[consumo b]: Numero lido 775436961
+[producao]: Numero gerado -181112499
+[consumo a]: Numero lido -181112499
+[producao]: Numero gerado 209552414
+[consumo b]: Numero lido 209552414
+[producao]: Numero gerado -478906322
+[consumo a]: Numero lido -478906322
+[producao]: Numero gerado 1015786355
+[consumo b]: Numero lido 1015786355
+[producao]: Numero gerado 460764539
+[consumo a]: Numero lido 460764539
+[producao]: Numero gerado -1865014196
+[consumo b]: Numero lido -1865014196
+[producao]: Numero gerado 251819589
+[consumo a]: Numero lido 251819589
+[producao]: Numero gerado -1852542625
+[consumo b]: Numero lido -1852542625
+[producao]: Numero gerado 1307691548
+[consumo a]: Numero lido 1307691548
+[producao]: Numero gerado 933309174
+[consumo b]: Numero lido 933309174
+[producao]: Numero gerado -1654088883
+[consumo a]: Numero lido -1654088883
+[producao]: Numero gerado -29493788
+[consumo b]: Numero lido -29493788
+[producao]: Numero gerado 1632221056
+[consumo a]: Numero lido 1632221056
+[producao]: Numero gerado -1270500867
+[consumo b]: Numero lido -1270500867
+[producao]: Numero gerado -1979204026
+[consumo a]: Numero lido -1979204026
+[producao]: Numero gerado 1576702891
+[consumo b]: Numero lido 1576702891
+[producao]: Numero gerado -600360578
+[consumo a]: Numero lido -600360578
+[producao]: Numero gerado 57678005
+[consumo b]: Numero lido 57678005
+[producao]: Numero gerado -397405138
+[consumo a]: Numero lido -397405138
+[producao]: Numero gerado 916031567
+[consumo b]: Numero lido 916031567
+[producao]: Numero gerado 178458367
+[consumo a]: Numero lido 178458367
+[producao]: Numero gerado 334646492
+[consumo b]: Numero lido 334646492
+[producao]: Numero gerado -679974929
+[consumo a]: Numero lido -679974929
+[producao]: Numero gerado -302416689
+[consumo b]: Numero lido -302416689
+[producao]: Numero gerado 1908628044
+[consumo a]: Numero lido 1908628044
+[producao]: Numero gerado 1542731527
+[consumo b]: Numero lido 1542731527
+[producao]: Numero gerado -111331146
+[consumo a]: Numero lido -111331146
+[producao]: Numero gerado 1704205044
+[consumo b]: Numero lido 1704205044
+[producao]: Numero gerado -274937866
+[consumo a]: Numero lido -274937866
+[producao]: Numero gerado -2063168121
+[consumo b]: Numero lido -2063168121
+[producao]: Numero gerado 1325443013
+[consumo a]: Numero lido 1325443013
+[producao]: Numero gerado 770359385
+[consumo b]: Numero lido 770359385
+[producao]: Numero gerado 226724397
+[consumo a]: Numero lido 226724397
+[producao]: Numero gerado -2009996037
+[consumo b]: Numero lido -2009996037
+[producao]: Numero gerado 1456788260
+[consumo a]: Numero lido 1456788260
+[producao]: Numero gerado -21608198
+[consumo b]: Numero lido -21608198
+[producao]: Numero gerado 551245919
+[consumo a]: Numero lido 551245919
+[producao]: Numero gerado -2140670930
+[consumo b]: Numero lido -2140670930
+[producao]: Numero gerado -1598507579
+[consumo a]: Numero lido -1598507579
+[producao]: Numero gerado 1231403432
+[consumo b]: Numero lido 1231403432
+[producao]: Numero gerado -1948624193
+[consumo a]: Numero lido -1948624193
+[producao]: Numero gerado -1585149357
+[consumo b]: Numero lido -1585149357
+[producao]: Numero gerado 2113132561
+[consumo a]: Numero lido 2113132561
+[producao]: Numero gerado 680994056
+[consumo b]: Numero lido 680994056
+[producao]: Numero gerado 312050635
+[consumo a]: Numero lido 312050635
+[producao]: Numero gerado 1539882433
+[consumo b]: Numero lido 1539882433
+[producao]: Numero gerado -995040960
+[consumo a]: Numero lido -995040960
+[producao]: Numero gerado -1700937661
+[consumo b]: Numero lido -1700937661
+[producao]: Numero gerado 1333785099
+[consumo a]: Numero lido 1333785099
+[producao]: Numero gerado -2046458001
+[consumo b]: Numero lido -2046458001
+[producao]: Numero gerado 1681906751
+[consumo a]: Numero lido 1681906751
+[producao]: Numero gerado 433025974
+[consumo b]: Numero lido 433025974
+[producao]: Numero gerado 88748516
+[consumo a]: Numero lido 88748516
+[producao]: Numero gerado 1863566674
+[consumo b]: Numero lido 1863566674
+[producao]: Numero gerado -611852580
+[consumo a]: Numero lido -611852580
+[producao]: Numero gerado 1326077272
+[consumo b]: Numero lido 1326077272
+[producao]: Numero gerado -2035075377
+[consumo a]: Numero lido -2035075377
+[producao]: Numero gerado 1859608110
+[consumo b]: Numero lido 1859608110
+[producao]: Numero gerado -429824909
+[consumo a]: Numero lido -429824909
+[producao]: Numero gerado 1126342145
+[consumo b]: Numero lido 1126342145
+[producao]: Numero gerado 1852042514
+[consumo a]: Numero lido 1852042514
+[producao]: Numero gerado 597575564
+[consumo b]: Numero lido 597575564
+[producao]: Numero gerado -229628367
+[consumo a]: Numero lido -229628367
+[producao]: Numero gerado 1131513453
+[consumo b]: Numero lido 1131513453
+[producao]: Numero gerado 1474414323
+[consumo a]: Numero lido 1474414323
+[producao]: Numero gerado 218712521
+[consumo b]: Numero lido 218712521
+[producao]: Numero gerado 933398838
+[consumo a]: Numero lido 933398838
+[producao]: Numero gerado 772876378
+[consumo b]: Numero lido 772876378
+[producao]: Numero gerado -395482265
+[consumo a]: Numero lido -395482265
+[producao]: Numero gerado 1110931616
+[consumo b]: Numero lido 1110931616
+[producao]: Numero gerado -567227141
+[consumo a]: Numero lido -567227141
+[producao]: Numero gerado -8526613
+[consumo b]: Numero lido -8526613
+[producao]: Numero gerado -75055818
+[consumo a]: Numero lido -75055818
+[producao]: Numero gerado 1483750006
+[consumo b]: Numero lido 1483750006
+[producao]: Numero gerado -232045683
+[consumo a]: Numero lido -232045683
+[producao]: Numero gerado -392381607
+[consumo b]: Numero lido -392381607
+[producao]: Numero gerado 853674983
+[consumo a]: Numero lido 853674983
+[producao]: Numero gerado 128445481
+[consumo b]: Numero lido 128445481
+[producao]: Numero gerado -850216034
+[consumo a]: Numero lido -850216034
+[producao]: Numero gerado -473398567
+[consumo b]: Numero lido -473398567
+[producao]: Numero gerado -2081497066
+[consumo a]: Numero lido -2081497066
+[producao]: Numero gerado 1706495255
+[consumo b]: Numero lido 1706495255
+[producao]: Numero gerado -1351046751
+[consumo a]: Numero lido -1351046751
+[producao]: Numero gerado 2066218642
+[consumo b]: Numero lido 2066218642
+[producao]: Numero gerado -1508571611
+[consumo a]: Numero lido -1508571611
+[producao]: Numero gerado -2030052658
+[consumo b]: Numero lido -2030052658
+[producao]: Numero gerado -600348631
+[consumo a]: Numero lido -600348631
+[producao]: Numero gerado 1319800606
+[consumo b]: Numero lido 1319800606
+[producao]: Numero gerado 1835390364
+[consumo a]: Numero lido 1835390364
+[producao]: Numero gerado 412551115
+[consumo b]: Numero lido 412551115
+[producao]: Numero gerado -2010500912
+[consumo a]: Numero lido -2010500912
+[producao]: Numero gerado 1641928537
+[consumo b]: Numero lido 1641928537
+[producao]: Numero gerado 1092375609
+[consumo a]: Numero lido 1092375609
+[producao]: Numero gerado 739408292
+[consumo b]: Numero lido 739408292
+[producao]: Numero gerado -1252269809
+[consumo a]: Numero lido -1252269809
+[producao]: Numero gerado -898933899
+[consumo b]: Numero lido -898933899
+[producao]: Numero gerado 166514978
+[consumo a]: Numero lido 166514978
+[producao]: Numero gerado -679812455
+[consumo b]: Numero lido -679812455
+[producao]: Numero gerado 315068084
+[consumo a]: Numero lido 315068084
+[producao]: Numero gerado 1920008978
+[consumo b]: Numero lido 1920008978
+[producao]: Numero gerado -1371173600
+[consumo a]: Numero lido -1371173600
+[producao]: Numero gerado 77794679
+[consumo b]: Numero lido 77794679
+[producao]: Numero gerado 778045334
+[consumo a]: Numero lido 778045334
+[producao]: Numero gerado -1316492336
+[consumo b]: Numero lido -1316492336
+[producao]: Numero gerado -944584556
+[consumo a]: Numero lido -944584556
+[producao]: Numero gerado -1471893377
+[consumo b]: Numero lido -1471893377
+[producao]: Numero gerado -39580023
+[consumo a]: Numero lido -39580023
+[producao]: Numero gerado 566473179
+[consumo b]: Numero lido 566473179
+[producao]: Numero gerado 1273606296
+[consumo a]: Numero lido 1273606296
+[producao]: Numero gerado -1421981283
+[consumo b]: Numero lido -1421981283
+[producao]: Numero gerado -688944922
+[consumo a]: Numero lido -688944922
+[producao]: Numero gerado -147560836
+[consumo b]: Numero lido -147560836
+[producao]: Numero gerado -1737931605
+[consumo a]: Numero lido -1737931605
+[producao]: Numero gerado -1378139839
+[consumo b]: Numero lido -1378139839
+[producao]: Numero gerado -1484381328
+[consumo a]: Numero lido -1484381328
+[producao]: Numero gerado 2011093500
+[consumo b]: Numero lido 2011093500
+[producao]: Numero gerado -562233540
+[consumo a]: Numero lido -562233540
+[producao]: Numero gerado 1570976800
+[consumo b]: Numero lido 1570976800
+[producao]: Numero gerado 541883217
+[consumo a]: Numero lido 541883217
+[producao]: Numero gerado -1024521421
+[consumo b]: Numero lido -1024521421
+[producao]: Numero gerado 1692970242
+[consumo a]: Numero lido 1692970242
+[producao]: Numero gerado 1281392258
+[consumo b]: Numero lido 1281392258
+[producao]: Numero gerado 42704340
+[consumo a]: Numero lido 42704340
+[producao]: Numero gerado 361031749
+[consumo b]: Numero lido 361031749
+[producao]: Numero gerado -9353838
+[consumo a]: Numero lido -9353838
+[producao]: Numero gerado -1799051513
+[consumo b]: Numero lido -1799051513
+[producao]: Numero gerado -1608240555
+[consumo a]: Numero lido -1608240555
+[producao]: Numero gerado -2096915619
+[consumo b]: Numero lido -2096915619
+[producao]: Numero gerado -290441272
+[consumo a]: Numero lido -290441272
+[producao]: Numero gerado 1891867058
+[consumo b]: Numero lido 1891867058
+[producao]: Numero gerado -1511140651
+[consumo a]: Numero lido -1511140651
+[producao]: Numero gerado 933544782
+[consumo b]: Numero lido 933544782
+[producao]: Numero gerado -16189449
+[consumo a]: Numero lido -16189449
+[producao]: Numero gerado -720667632
+[consumo b]: Numero lido -720667632
+[producao]: Numero gerado -1947710632
+[consumo a]: Numero lido -1947710632
+[producao]: Numero gerado 1581870609
+[consumo b]: Numero lido 1581870609
+[producao]: Numero gerado 1039412892
+[consumo a]: Numero lido 1039412892
+[producao]: Numero gerado -1748005910
+[consumo b]: Numero lido -1748005910
+[producao]: Numero gerado -307858688
+[consumo a]: Numero lido -307858688
+[producao]: Numero gerado 1016244292
+[consumo b]: Numero lido 1016244292
+[producao]: Numero gerado -1541257616
+[consumo a]: Numero lido -1541257616
+[producao]: Numero gerado 108796232
+[consumo b]: Numero lido 108796232
+[producao]: Numero gerado -1708645057
+[consumo a]: Numero lido -1708645057
+[producao]: Numero gerado -1539691134
+[consumo b]: Numero lido -1539691134
+[producao]: Numero gerado 1352895118
+[consumo a]: Numero lido 1352895118
+[producao]: Numero gerado 998733187
+[consumo b]: Numero lido 998733187
+[producao]: Numero gerado -2088294288
+[consumo a]: Numero lido -2088294288
+[producao]: Numero gerado -1709799352
+[consumo b]: Numero lido -1709799352
+[producao]: Numero gerado 1735016329
+[consumo a]: Numero lido 1735016329
+[producao]: Numero gerado -1544631789
+[consumo b]: Numero lido -1544631789
+[producao]: Numero gerado 115756503
+[consumo a]: Numero lido 115756503
+[producao]: Numero gerado -1020356123
+[consumo b]: Numero lido -1020356123
+[producao]: Numero gerado 2100213855
+[consumo b]: Numero lido 2100213855
+[producao]: Numero gerado 2070876301
+[consumo a]: Numero lido 2070876301
+[producao]: Numero gerado 632514847
+[consumo b]: Numero lido 632514847
+[producao]: Numero gerado -645752760
+[consumo a]: Numero lido -645752760
+[producao]: Numero gerado 1550852435
+[consumo b]: Numero lido 1550852435
+[producao]: Numero gerado -808546823
+[consumo a]: Numero lido -808546823
+[producao]: Numero gerado 637026147
+[consumo b]: Numero lido 637026147
+[producao]: Numero gerado 794668877
+[consumo a]: Numero lido 794668877
+[producao]: Numero gerado 627075464
+[consumo b]: Numero lido 627075464
+[producao]: Numero gerado 620198170
+[consumo a]: Numero lido 620198170
+[producao]: Numero gerado 457176252
+[consumo b]: Numero lido 457176252
+[producao]: Numero gerado 1534647595
+[consumo b]: Numero lido 1534647595
+[producao]: Numero gerado -2011996041
+[consumo a]: Numero lido -2011996041
+[producao]: Numero gerado 771039027
+[consumo b]: Numero lido 771039027
+[producao]: Numero gerado -265663988
+[consumo a]: Numero lido -265663988
+[producao]: Numero gerado -96544013
+[consumo b]: Numero lido -96544013
+[producao]: Numero gerado -1363914233
+[consumo a]: Numero lido -1363914233
+[producao]: Numero gerado -1385159809
+[consumo b]: Numero lido -1385159809
+[producao]: Numero gerado 1766257146
+[consumo a]: Numero lido 1766257146
+[producao]: Numero gerado -142176207
+[consumo b]: Numero lido -142176207
+[producao]: Numero gerado 1412916478
+[consumo a]: Numero lido 1412916478
+[producao]: Numero gerado -1194169364
+[consumo b]: Numero lido -1194169364
+[producao]: Numero gerado 224329354
+[consumo a]: Numero lido 224329354
+[producao]: Numero gerado 1675004613
+[consumo b]: Numero lido 1675004613
+[producao]: Numero gerado -333983522
+[consumo a]: Numero lido -333983522
+[producao]: Numero gerado -1518699748
+[consumo b]: Numero lido -1518699748
+[producao]: Numero gerado 1060900107
+[consumo a]: Numero lido 1060900107
+[producao]: Numero gerado 283836412
+[consumo b]: Numero lido 283836412
+[producao]: Numero gerado -1837337008
+[consumo a]: Numero lido -1837337008
+[producao]: Numero gerado -1241098596
+[consumo b]: Numero lido -1241098596
+[producao]: Numero gerado -834308185
+[consumo a]: Numero lido -834308185
+[producao]: Numero gerado 1508132040
+[consumo b]: Numero lido 1508132040
+[producao]: Numero gerado 720640536
+[consumo a]: Numero lido 720640536
+[producao]: Numero gerado -999880163
+[consumo b]: Numero lido -999880163
+[producao]: Numero gerado 407542566
+[consumo a]: Numero lido 407542566
+[producao]: Numero gerado -2144668505
+[consumo b]: Numero lido -2144668505
+[producao]: Numero gerado -672700788
+[consumo a]: Numero lido -672700788
+[producao]: Numero gerado 1141819338
+[consumo b]: Numero lido 1141819338
+[producao]: Numero gerado 547173266
+[consumo a]: Numero lido 547173266
+[producao]: Numero gerado -1920290620
+[consumo b]: Numero lido -1920290620
+[producao]: Numero gerado -1506688747
+[consumo a]: Numero lido -1506688747
+[producao]: Numero gerado 1103804825
+[consumo b]: Numero lido 1103804825
+[producao]: Numero gerado -688776057
+[consumo a]: Numero lido -688776057
+[producao]: Numero gerado -1549568997
+[consumo b]: Numero lido -1549568997
+[producao]: Numero gerado 942999682
+[consumo a]: Numero lido 942999682
+[producao]: Numero gerado 1427238206
+[consumo b]: Numero lido 1427238206
+[producao]: Numero gerado -132474007
+[consumo a]: Numero lido -132474007
+[producao]: Numero gerado -1644678071
+[consumo b]: Numero lido -1644678071
+[producao]: Numero gerado 675163651
+[consumo a]: Numero lido 675163651
+[producao]: Numero gerado -997046898
+[consumo b]: Numero lido -997046898
+[producao]: Numero gerado 1715909164
+[consumo a]: Numero lido 1715909164
+[producao]: Numero gerado 1361436655
+[consumo b]: Numero lido 1361436655
+[producao]: Numero gerado 1888248014
+[consumo a]: Numero lido 1888248014
+[producao]: Numero gerado -1321458150
+[consumo b]: Numero lido -1321458150
+[producao]: Numero gerado 777157339
+[consumo a]: Numero lido 777157339
+[producao]: Numero gerado 405640613
+[consumo b]: Numero lido 405640613
+[producao]: Numero gerado -61597443
+[consumo a]: Numero lido -61597443
+[producao]: Numero gerado -1844497723
+[consumo b]: Numero lido -1844497723
+[producao]: Numero gerado -222090496
+[consumo a]: Numero lido -222090496
+[producao]: Numero gerado -932607841
+[consumo b]: Numero lido -932607841
+[producao]: Numero gerado 567224335
+[consumo a]: Numero lido 567224335
+[producao]: Numero gerado 22585839
+[consumo b]: Numero lido 22585839
+[producao]: Numero gerado -545162993
+[consumo a]: Numero lido -545162993
+[producao]: Numero gerado 2137016347
+[consumo b]: Numero lido 2137016347
+[producao]: Numero gerado -711573083
+[consumo a]: Numero lido -711573083
+[producao]: Numero gerado -1049254527
+[consumo b]: Numero lido -1049254527
+[producao]: Numero gerado 1757835651
+[consumo a]: Numero lido 1757835651
+[producao]: Numero gerado 135009628
+[consumo b]: Numero lido 135009628
+[producao]: Numero gerado 852473666
+[consumo a]: Numero lido 852473666
+[producao]: Numero gerado 295290536
+[consumo b]: Numero lido 295290536
+[producao]: Numero gerado -1900118911
+[consumo a]: Numero lido -1900118911
+[producao]: Numero gerado 462857594
+[consumo b]: Numero lido 462857594
+[producao]: Numero gerado 99201825
+[consumo a]: Numero lido 99201825
+[producao]: Numero gerado -804164876
+[consumo b]: Numero lido -804164876
+[producao]: Numero gerado 1333987825
+[consumo a]: Numero lido 1333987825
+[producao]: Numero gerado -789922184
+[consumo b]: Numero lido -789922184
+[producao]: Numero gerado 414145763
+[consumo a]: Numero lido 414145763
+[producao]: Numero gerado 1139370158
+[consumo b]: Numero lido 1139370158
+[producao]: Numero gerado -778680005
+[consumo a]: Numero lido -778680005
+[producao]: Numero gerado -399169300
+[consumo b]: Numero lido -399169300
+[producao]: Numero gerado 1124335658
+[consumo a]: Numero lido 1124335658
+[producao]: Numero gerado 1837978680
+[consumo b]: Numero lido 1837978680
+[producao]: Numero gerado -1472239452
+[consumo a]: Numero lido -1472239452
+[producao]: Numero gerado -34993239
+[consumo b]: Numero lido -34993239
+[producao]: Numero gerado -1637192675
+[consumo a]: Numero lido -1637192675
+[producao]: Numero gerado -1083668575
+[consumo b]: Numero lido -1083668575
+[producao]: Numero gerado -726094594
+[consumo a]: Numero lido -726094594
+[producao]: Numero gerado 1434146925
+[consumo b]: Numero lido 1434146925
+[producao]: Numero gerado -1583849208
+[consumo a]: Numero lido -1583849208
+[producao]: Numero gerado 100447543
+[consumo b]: Numero lido 100447543
+[producao]: Numero gerado 959699415
+[consumo a]: Numero lido 959699415
+[producao]: Numero gerado 731583665
+[consumo b]: Numero lido 731583665
+[producao]: Numero gerado 696314842
+[consumo a]: Numero lido 696314842
+[producao]: Numero gerado 2102850075
+[consumo b]: Numero lido 2102850075
+[producao]: Numero gerado 674148085
+[consumo a]: Numero lido 674148085
+[producao]: Numero gerado -312453519
+[consumo b]: Numero lido -312453519
+[producao]: Numero gerado -1029654366
+[consumo a]: Numero lido -1029654366
+[producao]: Numero gerado 1368166147
+[consumo b]: Numero lido 1368166147
+[producao]: Numero gerado -1000422075
+[consumo a]: Numero lido -1000422075
+[producao]: Numero gerado 629976983
+[consumo b]: Numero lido 629976983
+[producao]: Numero gerado 276828725
+[consumo a]: Numero lido 276828725
+[producao]: Numero gerado -2052679472
+[consumo b]: Numero lido -2052679472
+[producao]: Numero gerado 253200051
+[consumo a]: Numero lido 253200051
+[producao]: Numero gerado 1107082453
+[consumo b]: Numero lido 1107082453
+[producao]: Numero gerado -739754461
+[consumo a]: Numero lido -739754461
+[producao]: Numero gerado 377932230
+[consumo b]: Numero lido 377932230
+[producao]: Numero gerado 212431434
+[consumo a]: Numero lido 212431434
+[producao]: Numero gerado 545142144
+[consumo b]: Numero lido 545142144
+[producao]: Numero gerado 1247897070
+[consumo a]: Numero lido 1247897070
+[producao]: Numero gerado -1082286629
+[consumo b]: Numero lido -1082286629
+[producao]: Numero gerado -721053843
+[consumo a]: Numero lido -721053843
+[producao]: Numero gerado 1757526315
+[consumo b]: Numero lido 1757526315
+[producao]: Numero gerado 1162870012
+[consumo a]: Numero lido 1162870012
+[producao]: Numero gerado -557565035
+[consumo b]: Numero lido -557565035
+[producao]: Numero gerado -1925591514
+[consumo a]: Numero lido -1925591514
+[producao]: Numero gerado 1517377153
+[consumo b]: Numero lido 1517377153
+[producao]: Numero gerado -1111636735
+[consumo a]: Numero lido -1111636735
+[producao]: Numero gerado 895307646
+[consumo b]: Numero lido 895307646
+[producao]: Numero gerado 483122760
+[consumo a]: Numero lido 483122760
+[producao]: Numero gerado -1149076834
+[consumo b]: Numero lido -1149076834
+[producao]: Numero gerado 2006560552
+[consumo a]: Numero lido 2006560552
+[producao]: Numero gerado -527031994
+[consumo b]: Numero lido -527031994
+[producao]: Numero gerado -995423391
+[consumo a]: Numero lido -995423391
+[producao]: Numero gerado 1668370084
+[consumo b]: Numero lido 1668370084
+[producao]: Numero gerado 369546488
+[consumo a]: Numero lido 369546488
+[producao]: Numero gerado -2109186431
+[consumo b]: Numero lido -2109186431
+[producao]: Numero gerado 1874982194
+[consumo a]: Numero lido 1874982194
+[producao]: Numero gerado 1287258215
+[consumo b]: Numero lido 1287258215
+[producao]: Numero gerado 1956763390
+[consumo a]: Numero lido 1956763390
+[producao]: Numero gerado 1540567439
+[consumo b]: Numero lido 1540567439
+[producao]: Numero gerado -1143762774
+[consumo a]: Numero lido -1143762774
+[producao]: Numero gerado 906024566
+[consumo b]: Numero lido 906024566
+[producao]: Numero gerado -515317168
+[consumo a]: Numero lido -515317168
+[producao]: Numero gerado -1354278459
+[consumo b]: Numero lido -1354278459
+[producao]: Numero gerado -194873629
+[consumo a]: Numero lido -194873629
+[producao]: Numero gerado -974131800
+[consumo b]: Numero lido -974131800
+[producao]: Numero gerado -1447476308
+[consumo a]: Numero lido -1447476308
+[producao]: Numero gerado 1355140170
+[consumo b]: Numero lido 1355140170
+[producao]: Numero gerado -764188574
+[consumo a]: Numero lido -764188574
+[producao]: Numero gerado 1615851373
+[consumo b]: Numero lido 1615851373
+[producao]: Numero gerado -1212533844
+[consumo a]: Numero lido -1212533844
+[producao]: Numero gerado 618146573
+[consumo b]: Numero lido 618146573
+[producao]: Numero gerado -1801511858
+[consumo a]: Numero lido -1801511858
+[producao]: Numero gerado -495836872
+[consumo b]: Numero lido -495836872
+[producao]: Numero gerado 1497234420
+[consumo a]: Numero lido 1497234420
+[producao]: Numero gerado 1232689922
+[consumo b]: Numero lido 1232689922
+[producao]: Numero gerado 404452099
+[consumo a]: Numero lido 404452099
+[producao]: Numero gerado -1340839977
+[consumo b]: Numero lido -1340839977
+[producao]: Numero gerado 329692497
+[consumo a]: Numero lido 329692497
+[producao]: Numero gerado 2142919345
+[consumo b]: Numero lido 2142919345
+[producao]: Numero gerado 529920004
+[consumo a]: Numero lido 529920004
+[producao]: Numero gerado -574759124
+[consumo b]: Numero lido -574759124
+[producao]: Numero gerado 2134701494
+[consumo a]: Numero lido 2134701494
+[producao]: Numero gerado 290371292
+[consumo b]: Numero lido 290371292
+[producao]: Numero gerado 751547736
+[consumo a]: Numero lido 751547736
+[producao]: Numero gerado -869079039
+[consumo b]: Numero lido -869079039
+[producao]: Numero gerado 1527291594
+[consumo a]: Numero lido 1527291594
+[producao]: Numero gerado -2002917754
+[consumo b]: Numero lido -2002917754
+[producao]: Numero gerado 535593306
+[consumo a]: Numero lido 535593306
+[producao]: Numero gerado -1891847418
+[consumo b]: Numero lido -1891847418
+[producao]: Numero gerado -412511202
+[consumo a]: Numero lido -412511202
+[producao]: Numero gerado -1965516665
+[consumo b]: Numero lido -1965516665
+[producao]: Numero gerado 476766530
+[consumo a]: Numero lido 476766530
+[producao]: Numero gerado -1985322302
+[consumo b]: Numero lido -1985322302
+[producao]: Numero gerado 138492736
+[consumo a]: Numero lido 138492736
+[producao]: Numero gerado 1344783464
+[consumo b]: Numero lido 1344783464
+[producao]: Numero gerado -805545191
+[consumo a]: Numero lido -805545191
+[producao]: Numero gerado 82146250
+[consumo b]: Numero lido 82146250
+[producao]: Numero gerado -1658810177
+[consumo a]: Numero lido -1658810177
+[producao]: Numero gerado -927406452
+[consumo b]: Numero lido -927406452
+[producao]: Numero gerado 1457108343
+[consumo a]: Numero lido 1457108343
+[producao]: Numero gerado -1977100410
+[consumo b]: Numero lido -1977100410
+[producao]: Numero gerado -547492219
+[consumo a]: Numero lido -547492219
+[producao]: Numero gerado -181341447
+[consumo b]: Numero lido -181341447
+[producao]: Numero gerado 715316042
+[consumo a]: Numero lido 715316042
+[producao]: Numero gerado -1042273060
+[consumo b]: Numero lido -1042273060
+[producao]: Numero gerado 1755299888
+[consumo a]: Numero lido 1755299888
+[producao]: Numero gerado -1018363281
+[consumo b]: Numero lido -1018363281
+[producao]: Numero gerado 663067830
+[consumo a]: Numero lido 663067830
+[producao]: Numero gerado 494416238
+[consumo b]: Numero lido 494416238
+[producao]: Numero gerado 1900236907
+[consumo a]: Numero lido 1900236907
+[producao]: Numero gerado 450349400
+[consumo b]: Numero lido 450349400
+[producao]: Numero gerado -99914410
+[consumo a]: Numero lido -99914410
+[producao]: Numero gerado -428927691
+[consumo b]: Numero lido -428927691
+[producao]: Numero gerado -961437581
+[consumo a]: Numero lido -961437581
+[producao]: Numero gerado -409677693
+[consumo b]: Numero lido -409677693
+[producao]: Numero gerado -2006441111
+[consumo a]: Numero lido -2006441111
+[producao]: Numero gerado -1279695571
+[consumo b]: Numero lido -1279695571
+[producao]: Numero gerado 915390694
+[consumo a]: Numero lido 915390694
+[producao]: Numero gerado 1247176193
+[consumo b]: Numero lido 1247176193
+[producao]: Numero gerado 703339370
+[consumo a]: Numero lido 703339370
+[producao]: Numero gerado 353773173
+[consumo b]: Numero lido 353773173
+[producao]: Numero gerado -1046324122
+[consumo a]: Numero lido -1046324122
+[producao]: Numero gerado -508294476
+[consumo b]: Numero lido -508294476
+[producao]: Numero gerado -1210202121
+[consumo a]: Numero lido -1210202121
+[producao]: Numero gerado -1039758651
+[consumo b]: Numero lido -1039758651
+[producao]: Numero gerado -670003625
+[consumo a]: Numero lido -670003625
+[producao]: Numero gerado 2089486226
+[consumo b]: Numero lido 2089486226
+[producao]: Numero gerado -1729681563
+[consumo a]: Numero lido -1729681563
+[producao]: Numero gerado -482146656
+[consumo b]: Numero lido -482146656
+[producao]: Numero gerado -2082891190
+[consumo a]: Numero lido -2082891190
+[producao]: Numero gerado 1808210132
+[consumo b]: Numero lido 1808210132
+[producao]: Numero gerado 1264326705
+[consumo a]: Numero lido 1264326705
+[producao]: Numero gerado 1972388638
+[consumo b]: Numero lido 1972388638
+[producao]: Numero gerado 537985490
+[consumo a]: Numero lido 537985490
+[producao]: Numero gerado 683993074
+[consumo b]: Numero lido 683993074
+[producao]: Numero gerado 1397283312
+[consumo a]: Numero lido 1397283312
+[producao]: Numero gerado 1552105657
+[consumo b]: Numero lido 1552105657
+[producao]: Numero gerado 812564284
+[consumo a]: Numero lido 812564284
+[producao]: Numero gerado -453512455
+[consumo b]: Numero lido -453512455
+[producao]: Numero gerado 981402028
+[consumo a]: Numero lido 981402028
+[producao]: Numero gerado 430046949
+[consumo b]: Numero lido 430046949
+[producao]: Numero gerado 60869717
+[consumo a]: Numero lido 60869717
+[producao]: Numero gerado -584958465
+[consumo b]: Numero lido -584958465
+[producao]: Numero gerado -1822349336
+[consumo a]: Numero lido -1822349336
+[producao]: Numero gerado -198350217
+[consumo b]: Numero lido -198350217
+[producao]: Numero gerado -1977026407
+[consumo a]: Numero lido -1977026407
+[producao]: Numero gerado 353731798
+[consumo b]: Numero lido 353731798
+[producao]: Numero gerado -1068473384
+[consumo a]: Numero lido -1068473384
+[producao]: Numero gerado 518409933
+[consumo b]: Numero lido 518409933
+[producao]: Numero gerado 1933526098
+[consumo a]: Numero lido 1933526098
+[producao]: Numero gerado -1387436851
+[consumo b]: Numero lido -1387436851
+[producao]: Numero gerado 836394831
+[consumo a]: Numero lido 836394831
+[producao]: Numero gerado 1542763794
+[consumo b]: Numero lido 1542763794
+[producao]: Numero gerado 2074386248
+[consumo a]: Numero lido 2074386248
+[producao]: Numero gerado 1622466848
+[consumo b]: Numero lido 1622466848
+[producao]: Numero gerado -1073551481
+[consumo a]: Numero lido -1073551481
+[producao]: Numero gerado 1408860218
+[consumo b]: Numero lido 1408860218
+[producao]: Numero gerado 1369438832
+[consumo a]: Numero lido 1369438832
+[producao]: Numero gerado 1338601561
+[consumo b]: Numero lido 1338601561
+[producao]: Numero gerado -322320301
+[consumo a]: Numero lido -322320301
+[producao]: Numero gerado -607276530
+[consumo b]: Numero lido -607276530
+[producao]: Numero gerado 1330886820
+[consumo a]: Numero lido 1330886820
+[producao]: Numero gerado 404814975
+[consumo b]: Numero lido 404814975
+[producao]: Numero gerado -1995739614
+[consumo a]: Numero lido -1995739614
+[producao]: Numero gerado -929018943
+[consumo b]: Numero lido -929018943
+[producao]: Numero gerado 390068122
+[consumo a]: Numero lido 390068122
+[producao]: Numero gerado 1475304064
+[consumo b]: Numero lido 1475304064
+[producao]: Numero gerado 1427139485
+[consumo a]: Numero lido 1427139485
+[producao]: Numero gerado -326183290
+[consumo b]: Numero lido -326183290
+[producao]: Numero gerado -481589961
+[consumo a]: Numero lido -481589961
+[producao]: Numero gerado -1847779000
+[consumo b]: Numero lido -1847779000
+[producao]: Numero gerado 831961253
+[consumo a]: Numero lido 831961253
+[producao]: Numero gerado 231753360
+[consumo b]: Numero lido 231753360
+[producao]: Numero gerado -338570201
+[consumo a]: Numero lido -338570201
+[producao]: Numero gerado 2081483407
+[consumo b]: Numero lido 2081483407
+[producao]: Numero gerado -1663682337
+[consumo a]: Numero lido -1663682337
+[producao]: Numero gerado -365414500
+[consumo b]: Numero lido -365414500
+[producao]: Numero gerado 1225500948
+[consumo a]: Numero lido 1225500948
+[producao]: Numero gerado -1006736455
+[consumo b]: Numero lido -1006736455
+[producao]: Numero gerado 32182183
+[consumo a]: Numero lido 32182183
+[producao]: Numero gerado -795280175
+[consumo b]: Numero lido -795280175
+[producao]: Numero gerado -1449342765
+[consumo a]: Numero lido -1449342765
+[producao]: Numero gerado -1618145094
+[consumo b]: Numero lido -1618145094
+[producao]: Numero gerado -1580812218
+[consumo a]: Numero lido -1580812218
+[producao]: Numero gerado -848187758
+[consumo b]: Numero lido -848187758
+[producao]: Numero gerado -624508392
+[consumo a]: Numero lido -624508392
+[producao]: Numero gerado -1005469945
+[consumo b]: Numero lido -1005469945
+[producao]: Numero gerado -1219790532
+[consumo b]: Numero lido -1219790532
+[producao]: Numero gerado 538661463
+[consumo a]: Numero lido 538661463
+[producao]: Numero gerado 1351066971
+[consumo b]: Numero lido 1351066971
+[producao]: Numero gerado -748126136
+[consumo b]: Numero lido -748126136
+[producao]: Numero gerado 1647872230
+[consumo a]: Numero lido 1647872230
+[producao]: Numero gerado -783159234
+[consumo b]: Numero lido -783159234
+[producao]: Numero gerado -1864312841
+[consumo a]: Numero lido -1864312841
+[producao]: Numero gerado -2064220653
+[consumo b]: Numero lido -2064220653
+[producao]: Numero gerado 1192783896
+[consumo a]: Numero lido 1192783896
+[producao]: Numero gerado 507994270
+[consumo b]: Numero lido 507994270
+[producao]: Numero gerado -696748822
+[consumo a]: Numero lido -696748822
+[producao]: Numero gerado -703063063
+[consumo b]: Numero lido -703063063
+[producao]: Numero gerado -1002021363
+[consumo a]: Numero lido -1002021363
+[producao]: Numero gerado 1381798021
+[consumo b]: Numero lido 1381798021
+[producao]: Numero gerado 508531084
+[consumo a]: Numero lido 508531084
+[producao]: Numero gerado 1028236228
+[consumo b]: Numero lido 1028236228
+[producao]: Numero gerado 1930189990
+[consumo a]: Numero lido 1930189990
+[producao]: Numero gerado 165672349
+[consumo b]: Numero lido 165672349
+[producao]: Numero gerado 1621522488
+[consumo a]: Numero lido 1621522488
+[producao]: Numero gerado -922536043
+[consumo b]: Numero lido -922536043
+[producao]: Numero gerado 1318577904
+[consumo a]: Numero lido 1318577904
+[producao]: Numero gerado -623444621
+[consumo b]: Numero lido -623444621
+[producao]: Numero gerado -2085896143
+[consumo a]: Numero lido -2085896143
+[producao]: Numero gerado 1404714577
+[consumo b]: Numero lido 1404714577
+[producao]: Numero gerado 1595276529
+[consumo a]: Numero lido 1595276529
+[producao]: Numero gerado 1980836034
+[consumo b]: Numero lido 1980836034
+[producao]: Numero gerado -1107324170
+[consumo a]: Numero lido -1107324170
+[producao]: Numero gerado -414023752
+[consumo b]: Numero lido -414023752
+[producao]: Numero gerado 1320293261
+[consumo a]: Numero lido 1320293261
+[producao]: Numero gerado 623743082
+[consumo b]: Numero lido 623743082
+[producao]: Numero gerado 128524128
+[consumo a]: Numero lido 128524128
+[producao]: Numero gerado 506124221
+[consumo b]: Numero lido 506124221
+[producao]: Numero gerado 1083471465
+[consumo a]: Numero lido 1083471465
+[producao]: Numero gerado -380040237
+[consumo b]: Numero lido -380040237
+[producao]: Numero gerado -1858773289
+[consumo a]: Numero lido -1858773289
+[producao]: Numero gerado 84236096
+[consumo b]: Numero lido 84236096
+[producao]: Numero gerado 477974990
+[consumo a]: Numero lido 477974990
+[producao]: Numero gerado -1936125322
+[consumo b]: Numero lido -1936125322
+[producao]: Numero gerado -354067654
+[consumo a]: Numero lido -354067654
+[producao]: Numero gerado -1625955243
+[consumo b]: Numero lido -1625955243
+[producao]: Numero gerado -1264379784
+[consumo a]: Numero lido -1264379784
+[producao]: Numero gerado -377735368
+[consumo b]: Numero lido -377735368
+[producao]: Numero gerado -219206929
+[consumo a]: Numero lido -219206929
+[producao]: Numero gerado 1292339305
+[consumo a]: Numero lido 1292339305
+[producao]: Numero gerado 758760049
+[consumo b]: Numero lido 758760049
+[producao]: Numero gerado 2127226969
+[consumo a]: Numero lido 2127226969
+[producao]: Numero gerado -690867633
+[consumo b]: Numero lido -690867633
+[producao]: Numero gerado -1208559545
+[consumo a]: Numero lido -1208559545
+[producao]: Numero gerado 1029452372
+[consumo b]: Numero lido 1029452372
+[producao]: Numero gerado -865903639
+[consumo a]: Numero lido -865903639
+[producao]: Numero gerado 170644675
+[consumo b]: Numero lido 170644675
+[producao]: Numero gerado -1075995647
+[consumo a]: Numero lido -1075995647
+[producao]: Numero gerado -1456086060
+[consumo b]: Numero lido -1456086060
+[producao]: Numero gerado -1838891650
+[consumo a]: Numero lido -1838891650
+[producao]: Numero gerado -1158764242
+[consumo b]: Numero lido -1158764242
+[producao]: Numero gerado 1352618060
+[consumo a]: Numero lido 1352618060
+[producao]: Numero gerado -236519692
+[consumo b]: Numero lido -236519692
+[producao]: Numero gerado 1831963001
+[consumo a]: Numero lido 1831963001
+[producao]: Numero gerado 900684031
+[consumo b]: Numero lido 900684031
+[producao]: Numero gerado -1620970002
+[consumo a]: Numero lido -1620970002
+[producao]: Numero gerado -1264411908
+[consumo b]: Numero lido -1264411908
+[producao]: Numero gerado 1278460232
+[consumo a]: Numero lido 1278460232
+[producao]: Numero gerado -203201517
+[consumo b]: Numero lido -203201517
+[producao]: Numero gerado -1115122659
+[consumo a]: Numero lido -1115122659
+[producao]: Numero gerado -925292413
+[consumo b]: Numero lido -925292413
+[producao]: Numero gerado 1822660908
+[consumo a]: Numero lido 1822660908
+[producao]: Numero gerado 963332940
+[consumo b]: Numero lido 963332940
+[producao]: Numero gerado 1856650200
+[consumo a]: Numero lido 1856650200
+[producao]: Numero gerado -1683603956
+[consumo b]: Numero lido -1683603956
+[producao]: Numero gerado 1492511078
+[consumo a]: Numero lido 1492511078
+[producao]: Numero gerado 68956419
+[consumo b]: Numero lido 68956419
+[producao]: Numero gerado -1474042562
+[consumo a]: Numero lido -1474042562
+[producao]: Numero gerado -234222159
+[consumo b]: Numero lido -234222159
+[producao]: Numero gerado 942186901
+[consumo a]: Numero lido 942186901
+[producao]: Numero gerado -2013842125
+[consumo b]: Numero lido -2013842125
+[producao]: Numero gerado -1331001746
+[consumo a]: Numero lido -1331001746
+[producao]: Numero gerado -1163230984
+[consumo b]: Numero lido -1163230984
+[producao]: Numero gerado 2057681085
+[consumo a]: Numero lido 2057681085
+[producao]: Numero gerado 295178954
+[consumo b]: Numero lido 295178954
+[producao]: Numero gerado 1941436389
+[consumo a]: Numero lido 1941436389
+[producao]: Numero gerado 882601397
+[consumo b]: Numero lido 882601397
+[producao]: Numero gerado -519023664
+[consumo a]: Numero lido -519023664
+[producao]: Numero gerado 1404317114
+[consumo b]: Numero lido 1404317114
+[producao]: Numero gerado 1426256755
+[consumo a]: Numero lido 1426256755
+[producao]: Numero gerado 1626510023
+[consumo b]: Numero lido 1626510023
+[producao]: Numero gerado 561522816
+[consumo a]: Numero lido 561522816
+[producao]: Numero gerado -1601972071
+[consumo b]: Numero lido -1601972071
+[producao]: Numero gerado 158890966
+[consumo a]: Numero lido 158890966
+[producao]: Numero gerado 364951700
+[consumo b]: Numero lido 364951700
+[producao]: Numero gerado -922442559
+[consumo a]: Numero lido -922442559
+[producao]: Numero gerado -1834319615
+[consumo b]: Numero lido -1834319615
+[producao]: Numero gerado 66522652
+[consumo a]: Numero lido 66522652
+[producao]: Numero gerado 84405203
+[consumo b]: Numero lido 84405203
+[producao]: Numero gerado 91249963
+[consumo a]: Numero lido 91249963
+[producao]: Numero gerado -1169792261
+[consumo b]: Numero lido -1169792261
+[producao]: Numero gerado -2068122786
+[consumo a]: Numero lido -2068122786
+[producao]: Numero gerado -125150276
+[consumo b]: Numero lido -125150276
+[producao]: Numero gerado -2097579252
+[consumo a]: Numero lido -2097579252
+[producao]: Numero gerado -2115195539
+[consumo b]: Numero lido -2115195539
+[producao]: Numero gerado 2115521896
+[consumo a]: Numero lido 2115521896
+[producao]: Numero gerado -1241768739
+[consumo b]: Numero lido -1241768739
+[producao]: Numero gerado 326997319
+[consumo a]: Numero lido 326997319
+[producao]: Numero gerado 515078081
+[consumo b]: Numero lido 515078081
+[producao]: Numero gerado 529901092
+[consumo a]: Numero lido 529901092
+[producao]: Numero gerado 1608754697
+[consumo b]: Numero lido 1608754697
+[producao]: Numero gerado 181601157
+[consumo a]: Numero lido 181601157
+[producao]: Numero gerado -1265094949
+[consumo b]: Numero lido -1265094949
+[producao]: Numero gerado -1269638456
+[consumo a]: Numero lido -1269638456
+[producao]: Numero gerado 1288155930
+[consumo b]: Numero lido 1288155930
+[producao]: Numero gerado 1106470142
+[consumo a]: Numero lido 1106470142
+[producao]: Numero gerado -1130113787
+[consumo b]: Numero lido -1130113787
+[producao]: Numero gerado 13306285
+[consumo a]: Numero lido 13306285
+[producao]: Numero gerado -1796021255
+[consumo b]: Numero lido -1796021255
+[producao]: Numero gerado -1523704686
+[consumo a]: Numero lido -1523704686
+[producao]: Numero gerado -1720830206
+[consumo b]: Numero lido -1720830206
+[producao]: Numero gerado -291185478
+[consumo a]: Numero lido -291185478
+[producao]: Numero gerado -487782811
+[consumo b]: Numero lido -487782811
+[producao]: Numero gerado -1237945622
+[consumo a]: Numero lido -1237945622
+[producao]: Numero gerado -931539579
+[consumo b]: Numero lido -931539579
+[producao]: Numero gerado -797627541
+[consumo a]: Numero lido -797627541
+[producao]: Numero gerado -1370479428
+[consumo b]: Numero lido -1370479428
+[producao]: Numero gerado -167231821
+[consumo a]: Numero lido -167231821
+[producao]: Numero gerado -919120544
+[consumo b]: Numero lido -919120544
+[producao]: Numero gerado -617046307
+[consumo a]: Numero lido -617046307
+[producao]: Numero gerado -1558051900
+[consumo b]: Numero lido -1558051900
+[producao]: Numero gerado 167428943
+[consumo a]: Numero lido 167428943
+[producao]: Numero gerado 2001242485
+[consumo b]: Numero lido 2001242485
+[producao]: Numero gerado -238992572
+[consumo a]: Numero lido -238992572
+[producao]: Numero gerado -2065452089
+[consumo b]: Numero lido -2065452089
+[producao]: Numero gerado 1753517033
+[consumo a]: Numero lido 1753517033
+[producao]: Numero gerado 1618358894
+[consumo b]: Numero lido 1618358894
+[producao]: Numero gerado -1307051719
+[consumo a]: Numero lido -1307051719
+[producao]: Numero gerado -2052472343
+[consumo b]: Numero lido -2052472343
+[producao]: Numero gerado 1742699917
+[consumo a]: Numero lido 1742699917
+[producao]: Numero gerado -539266610
+[consumo b]: Numero lido -539266610
+[producao]: Numero gerado -1482898559
+[consumo a]: Numero lido -1482898559
+[producao]: Numero gerado -94199446
+[consumo b]: Numero lido -94199446
+[producao]: Numero gerado -864482128
+[consumo a]: Numero lido -864482128
+[producao]: Numero gerado -1804315980
+[consumo b]: Numero lido -1804315980
+[producao]: Numero gerado 411782305
+[consumo a]: Numero lido 411782305
+[producao]: Numero gerado -1165966734
+[consumo b]: Numero lido -1165966734
+[producao]: Numero gerado -2116348109
+[consumo a]: Numero lido -2116348109
+[producao]: Numero gerado 1790246471
+[consumo b]: Numero lido 1790246471
+[producao]: Numero gerado 397372448
+[consumo a]: Numero lido 397372448
+[producao]: Numero gerado -288199852
+[consumo b]: Numero lido -288199852
+[producao]: Numero gerado -1222344765
+[consumo a]: Numero lido -1222344765
+[producao]: Numero gerado 716465593
+[consumo b]: Numero lido 716465593
+[producao]: Numero gerado -1657617415
+[consumo a]: Numero lido -1657617415
+[producao]: Numero gerado 278745682
+[consumo b]: Numero lido 278745682
+[producao]: Numero gerado -153072813
+[consumo a]: Numero lido -153072813
+[producao]: Numero gerado 1090082353
+[consumo b]: Numero lido 1090082353
+[producao]: Numero gerado -1838628126
+[consumo a]: Numero lido -1838628126
+[producao]: Numero gerado -653729640
+[consumo b]: Numero lido -653729640
+[producao]: Numero gerado -1397024310
+[consumo a]: Numero lido -1397024310
+[producao]: Numero gerado 1078542547
+[consumo b]: Numero lido 1078542547
+[producao]: Numero gerado -2028364224
+[consumo a]: Numero lido -2028364224
+[producao]: Numero gerado -642332725
+[consumo b]: Numero lido -642332725
+[producao]: Numero gerado -329167633
+[consumo a]: Numero lido -329167633
+[producao]: Numero gerado 1262093678
+[consumo b]: Numero lido 1262093678
+[producao]: Numero gerado 2029673386
+[consumo a]: Numero lido 2029673386
+[producao]: Numero gerado 825666656
+[consumo b]: Numero lido 825666656
+[producao]: Numero gerado 511580100
+[consumo a]: Numero lido 511580100
+[producao]: Numero gerado 1266749970
+[consumo b]: Numero lido 1266749970
+[producao]: Numero gerado 953689173
+[consumo a]: Numero lido 953689173
+[producao]: Numero gerado 1889816956
+[consumo b]: Numero lido 1889816956
+[producao]: Numero gerado -1580674909
+[consumo a]: Numero lido -1580674909
+[producao]: Numero gerado 178632567
+[

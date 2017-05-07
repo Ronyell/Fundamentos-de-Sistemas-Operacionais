@@ -16,4 +16,4 @@ all: $(SRCFILES:src/%.c=%.o)
 .PHONY: clean
 
 clean:
-	rm -rf main output.txt
+	rm -rf *.txt

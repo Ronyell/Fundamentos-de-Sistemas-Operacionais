@@ -8,16 +8,18 @@
 #include "funcoes.h"
 
 
-FILE * abrirArquivoSaida(){
-    FILE *output;
+void criarArquivoLog(){
 
-    output = fopen("output.txt", "a+");
+    arquivoLog = fopen("log.txt", "w+");
 
-    if(output == NULL){
+    if(arquivoLog == NULL){
         printf("Erro, nao foi possivel abrir o arquivo\n");
     }
+}
 
-    return output;
+void fecharArquivoLog(char* nomeArquivo){
+  rename("log.txt", nomeArquivo);
+  fclose(arquivoLog);
 }
 
 void *funcaoProdutora(void *argumentos){
@@ -48,7 +50,7 @@ void *funcaoProdutora(void *argumentos){
             break;
         }
 
-        printf("[producao]: Numero gerado %d\n", numero);
+        fprintf(arquivoLog, "[producao]: Numero gerado %d\n", numero);
         insereNo(BUFFER, &quantidadeAtual, numero);
 
         if(numero > maiorNumero){
@@ -89,9 +91,10 @@ void *funcaoConsumidora(void *argumentos){
         } while (aguardar == TRUE);
 
         no = retiraNo(BUFFER, &quantidadeAtual);
-        printf("[consumo %c]: Numero lido %d\n", caracter, no->numero );
+        fprintf(arquivoLog, "[consumo %c]: Numero lido %d\n", caracter, no->numero );
         pthread_mutex_unlock(&mutex);
 
+        //TODO arrumar o tempo
         usleep(4000000);
 
     }
@@ -102,7 +105,7 @@ void *funcaoConsumidora(void *argumentos){
 void encerrarProcesso(int verificador){
     switch (verificador) {
         case SIGINT:
-        printf("[aviso]: Termino solicitado. Aguardando threads...\n");
+        printf("\n[aviso]: Termino solicitado. Aguardando threads...\n");
             solicitacaoTermino = 1;
             int i = 0;
 
@@ -123,11 +126,21 @@ int numeroRandomico(){
   srand((int)tempo.tv_usec);
 
   sinal=rand()%2;
-  numero = rand()%10;
+  numero = rand();
 
   if(!sinal){
       numero *= -1;
   }
 
   return numero;
+}
+
+void imprimirResultados(){
+  printf("[aviso]: Maior numero gerado: %d\n", maiorNumero);
+  printf("[aviso]: Menor numero gerado: %d\n", menorNumero);
+  printf("[aviso]: Maior ocupacao de buffer: %d\n", maiorOcupacao);
+  fprintf(arquivoLog, "[aviso]: Maior numero gerado: %d\n", maiorNumero);
+  fprintf(arquivoLog, "[aviso]: Menor numero gerado: %d\n", menorNumero);
+  fprintf(arquivoLog, "[aviso]: Maior ocupacao de buffer: %d\n", maiorOcupacao);
+  printf("[aviso]: Aplicacao encerrada.\n");
 }

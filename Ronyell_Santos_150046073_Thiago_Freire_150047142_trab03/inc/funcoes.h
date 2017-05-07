@@ -21,9 +21,11 @@ int maiorOcupacao;
 int maiorNumero;
 int menorNumero;
 int solicitacaoTermino;
+FILE * arquivoLog;
 
+void criarArquivoLog();
 
-FILE * abrirArquivoSaida();
+void fecharArquivoLog(char* nomeArquivo);
 
 FILE * fecharArquivoSaida(FILE * output);
 
@@ -38,5 +40,7 @@ void *funcaoProdutora(void *argumentos);
 void *funcaoConsumidora(void *argumentos);
 
 int numeroRandomico();
+
+void imprimirResultados();
 
 #endif
