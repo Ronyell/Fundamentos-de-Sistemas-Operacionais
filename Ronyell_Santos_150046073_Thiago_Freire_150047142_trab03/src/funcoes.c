@@ -7,18 +7,6 @@
 #include <string.h>
 #include "funcoes.h"
 
-void fecharArquivo(int * fd, int position){
-    close(fd[position]);
-}
-
-void escreverArquivo(int * fd, char * message){
-    write(fd[WRITE], message, strlen(message)+1);
-}
-
-int lerArquivo(int * fd, char * message){
-    int size = read(fd[READ], message, BUFFER_SIZE);
-    return size;
-}
 
 FILE * abrirArquivoSaida(){
     FILE *output;
@@ -32,46 +20,114 @@ FILE * abrirArquivoSaida(){
     return output;
 }
 
-void *funcao1(void *argumentos){
-    while(x){
-        sleep(1);
-        printf("\nThread 1\n");
+void *funcaoProdutora(void *argumentos){
+    int aguardar = FALSE;
+    int numero = numeroRandomico();
+    maiorNumero = numero;
+    menorNumero = numero;
+    maiorOcupacao = 0;
+
+    while(!solicitacaoTermino){
+
+        do{
+            pthread_mutex_lock(&mutex);
+            aguardar = FALSE;
+            if (quantidadeAtual == BUFFER_SIZE){
+                aguardar = TRUE;
+                pthread_mutex_unlock(&mutex);
+            }
+
+            // TODO MELHORAR
+            if(solicitacaoTermino){
+                break;
+            }
+        } while (aguardar == TRUE);
+
+        // TODO MELHORAR
+        if(solicitacaoTermino){
+            break;
+        }
+
+        printf("[producao]: Numero gerado %d\n", numero);
+        insereNo(BUFFER, &quantidadeAtual, numero);
+
+        if(numero > maiorNumero){
+            maiorNumero = numero;
+        }
+        if(numero < menorNumero){
+            menorNumero = numero;
+        }
+        if(maiorOcupacao < quantidadeAtual){
+            maiorOcupacao = quantidadeAtual;
+        }
+
+	    pthread_mutex_unlock(&mutex);
+
+        usleep(1000000);
+        numero = numeroRandomico();
+
     }
+
     return (NULL);
 }
 
-void *funcao2(void *argumentos){
-    while(x){
-        sleep(2);
-        printf("\nThread 2\n");
-    }
-    return (NULL);
-}
 
-void *funcao3(void *argumentos){
-    while(x){
-        sleep(1);
-        printf("\nThread 3\n");
+void *funcaoConsumidora(void *argumentos){
+    int aguardar = FALSE;
+    char caracter = *(char*)argumentos;
+    Node * no = (Node *) malloc(sizeof(Node));
+
+    while(!solicitacaoTermino || quantidadeAtual){
+
+        do{
+            pthread_mutex_lock(&mutex);
+            aguardar = FALSE;
+            if (quantidadeAtual == 0){
+                aguardar = TRUE;
+                pthread_mutex_unlock(&mutex);
+            }
+        } while (aguardar == TRUE);
+
+        no = retiraNo(BUFFER, &quantidadeAtual);
+        printf("[consumo %c]: Numero lido %d\n", caracter, no->numero );
+        pthread_mutex_unlock(&mutex);
+
+        usleep(4000000);
+
     }
+
     return (NULL);
 }
 
 void encerrarProcesso(int verificador){
     switch (verificador) {
         case SIGINT:
-            x=0;
-            printf("Caught SIGINT, exiting now\n");
-            void *returnValue[NUM_THREADS] ;
+        printf("[aviso]: Termino solicitado. Aguardando threads...\n");
+            solicitacaoTermino = 1;
             int i = 0;
 
+            // TODO MELHORAR
             for(i = 0; i< NUM_THREADS; i++){
-                pthread_join(threads[i], & returnValue[i]);
-                printf("%d", (int) returnValue[i]);
+                pthread_join(threads[i], NULL);
             }
-            exit(0);
-        break;
-        default:
         break;
     }
+}
 
+int numeroRandomico(){
+  int numero = 0;
+  int sinal = 0;
+  struct timeval tempo;
+
+  gettimeofday(&tempo, NULL);
+  srand((int)tempo.tv_usec);
+
+  sinal=rand()%2;
+  numero = rand()%10;
+
+  if(!sinal){
+      numero *= -1;
+  }
+
+  return numero;
 }

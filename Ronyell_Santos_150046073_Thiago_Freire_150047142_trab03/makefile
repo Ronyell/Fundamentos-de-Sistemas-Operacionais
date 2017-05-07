@@ -2,7 +2,7 @@ INCFOLDER := inc/
 SRCFOLDER := src/
 
 CC := gcc
-CFLAGS := -W -Wall -Wshadow -lm
+CFLAGS := -lm
 
 SRCFILES := $(wildcard src/*.c)
 
