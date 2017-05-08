@@ -10,15 +10,14 @@
 
 void criarArquivoLog(){
 
-    arquivoLog = fopen("log.txt", "w+");
+    arquivoLog = fopen(nomeArquivo, "w+");
 
     if(arquivoLog == NULL){
         printf("Erro, nao foi possivel abrir o arquivo\n");
     }
 }
 
-void fecharArquivoLog(char* nomeArquivo){
-  rename("log.txt", nomeArquivo);
+void fecharArquivoLog(){
   fclose(arquivoLog);
 }
 
@@ -49,7 +48,7 @@ void *funcaoProdutora(void *argumentos){
         if(solicitacaoTermino){
             break;
         }
-
+      //  printf("[producao] Numero gerado: %d\n", numero);
         fprintf(arquivoLog, "[producao]: Numero gerado %d\n", numero);
         insereNo(BUFFER, &quantidadeAtual, numero);
 
@@ -65,11 +64,10 @@ void *funcaoProdutora(void *argumentos){
 
 	    pthread_mutex_unlock(&mutex);
 
-        usleep(1000000);
+        usleep(100000);
         numero = numeroRandomico();
 
     }
-
     return (NULL);
 }
 
@@ -88,31 +86,34 @@ void *funcaoConsumidora(void *argumentos){
                 aguardar = TRUE;
                 pthread_mutex_unlock(&mutex);
             }
+            // TODO MELHORAR
+            if(solicitacaoTermino && !quantidadeAtual){
+                break;
+            }
+
         } while (aguardar == TRUE);
+
+        if(solicitacaoTermino && !quantidadeAtual){
+            break;
+        }
 
         no = retiraNo(BUFFER, &quantidadeAtual);
         fprintf(arquivoLog, "[consumo %c]: Numero lido %d\n", caracter, no->numero );
         pthread_mutex_unlock(&mutex);
 
         //TODO arrumar o tempo
-        usleep(4000000);
+        usleep(150000);
 
     }
-
     return (NULL);
 }
 
 void encerrarProcesso(int verificador){
     switch (verificador) {
         case SIGINT:
-        printf("\n[aviso]: Termino solicitado. Aguardando threads...\n");
+        fprintf(arquivoLog, "[aviso]: Termino solicitado. Aguardando threads...\n");
+        printf("[aviso]: Termino solicitado. Aguardando threads...\n");
             solicitacaoTermino = 1;
-            int i = 0;
-
-            // TODO MELHORAR
-            for(i = 0; i< NUM_THREADS; i++){
-                pthread_join(threads[i], NULL);
-            }
         break;
     }
 }

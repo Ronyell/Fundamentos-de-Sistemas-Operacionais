@@ -8,7 +8,6 @@
 
 int main(){
     FILE * arquivoLog;
-    char nomeArquivo[100]= "";
 
     printf("Digite o nome do arquivo que deseja salvar o log: ");
     scanf("%s", nomeArquivo);
@@ -34,12 +33,12 @@ int main(){
     for(i = 0; i< NUM_THREADS; i++){
         pthread_join(threads[i], NULL);
     }
-    
+
     imprimirResultados();
 
     BUFFER = desalocaFila(BUFFER);
 
-    fecharArquivoLog(nomeArquivo);
+    fecharArquivoLog();
 
     return 0;
 }
