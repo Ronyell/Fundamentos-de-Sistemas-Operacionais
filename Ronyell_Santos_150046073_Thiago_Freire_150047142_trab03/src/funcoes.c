@@ -8,13 +8,15 @@
 #include "funcoes.h"
 
 
-void criarArquivoLog(){
+FILE * criarArquivoLog(char * nomeArquivo){
 
     arquivoLog = fopen(nomeArquivo, "w+");
 
     if(arquivoLog == NULL){
         printf("Erro, nao foi possivel abrir o arquivo\n");
+        exit(-1);
     }
+    return arquivoLog;
 }
 
 void fecharArquivoLog(){
@@ -111,8 +113,8 @@ void *funcaoConsumidora(void *argumentos){
 void encerrarProcesso(int verificador){
     switch (verificador) {
         case SIGINT:
-        fprintf(arquivoLog, "[aviso]: Termino solicitado. Aguardando threads...\n");
-        printf("[aviso]: Termino solicitado. Aguardando threads...\n");
+        fprintf(arquivoLog, "\n[aviso]: Termino solicitado. Aguardando threads...\n");
+        printf("\n[aviso]: Termino solicitado. Aguardando threads...\n");
             solicitacaoTermino = 1;
         break;
     }

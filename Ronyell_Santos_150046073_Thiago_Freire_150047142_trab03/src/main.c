@@ -6,14 +6,15 @@
 #include "funcoes.h"
 #include "fila.h"
 
-int main(){
-    FILE * arquivoLog;
+int main(int argc, char* argv[]){
 
-    printf("Digite o nome do arquivo que deseja salvar o log: ");
-    scanf("%s", nomeArquivo);
-    strcat(nomeArquivo,".txt");
-
-    criarArquivoLog();
+    if(argc == 2){
+        strcat(argv[1],".txt");
+    }else{
+        printf("Nome do arquivo não foi passado como parâmetro!\n");
+        exit(-1);
+    }
+    arquivoLog = criarArquivoLog(argv[1]);
 
     quantidadeAtual = 0;
     BUFFER = (Node *) malloc(sizeof(Node));

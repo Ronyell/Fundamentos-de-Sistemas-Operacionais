@@ -9,7 +9,6 @@
 #define READ 0
 #define WRITE 1
 #define BUFFER_SIZE 50
-#define TAMANHO_NOME_ARQUIVO 100
 #define NUM_THREADS 3
 #define TRUE 1
 #define FALSE 0
@@ -17,7 +16,6 @@
 pthread_t threads[NUM_THREADS];
 pthread_mutex_t mutex;
 Node * BUFFER;
-char nomeArquivo[TAMANHO_NOME_ARQUIVO];
 int quantidadeAtual;
 int maiorOcupacao;
 int maiorNumero;
@@ -25,7 +23,7 @@ int menorNumero;
 int solicitacaoTermino;
 FILE * arquivoLog;
 
-void criarArquivoLog();
+FILE * criarArquivoLog(char * nomeArquivo);
 
 void fecharArquivoLog();
 
