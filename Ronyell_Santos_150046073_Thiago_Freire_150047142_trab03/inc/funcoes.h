@@ -21,6 +21,7 @@ int maiorOcupacao;
 int maiorNumero;
 int menorNumero;
 int solicitacaoTermino;
+int primeiroConsumido;
 FILE * arquivoLog;
 
 FILE * criarArquivoLog(char * nomeArquivo);

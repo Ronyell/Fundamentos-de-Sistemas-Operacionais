@@ -26,8 +26,6 @@ void fecharArquivoLog(){
 void *funcaoProdutora(void *argumentos){
     int aguardar = FALSE;
     int numero = numeroRandomico();
-    maiorNumero = numero;
-    menorNumero = numero;
     maiorOcupacao = 0;
 
     while(!solicitacaoTermino){
@@ -40,30 +38,21 @@ void *funcaoProdutora(void *argumentos){
                 pthread_mutex_unlock(&mutex);
             }
 
-            // TODO MELHORAR
             if(solicitacaoTermino){
                 break;
             }
         } while (aguardar == TRUE);
 
-        // TODO MELHORAR
         if(solicitacaoTermino){
             break;
         }
-      //  printf("[producao] Numero gerado: %d\n", numero);
+
         fprintf(arquivoLog, "[producao]: Numero gerado %d\n", numero);
         insereNo(BUFFER, &quantidadeAtual, numero);
 
-        if(numero > maiorNumero){
-            maiorNumero = numero;
-        }
-        if(numero < menorNumero){
-            menorNumero = numero;
-        }
         if(maiorOcupacao < quantidadeAtual){
             maiorOcupacao = quantidadeAtual;
         }
-
 	    pthread_mutex_unlock(&mutex);
 
         usleep(100000);
@@ -79,7 +68,7 @@ void *funcaoConsumidora(void *argumentos){
     char caracter = *(char*)argumentos;
     Node * no = (Node *) malloc(sizeof(Node));
 
-    while(!solicitacaoTermino || quantidadeAtual){
+    while(!solicitacaoTermino){
 
         do{
             pthread_mutex_lock(&mutex);
@@ -88,19 +77,31 @@ void *funcaoConsumidora(void *argumentos){
                 aguardar = TRUE;
                 pthread_mutex_unlock(&mutex);
             }
-            // TODO MELHORAR
-            if(solicitacaoTermino && !quantidadeAtual){
+
+            if(solicitacaoTermino){
                 break;
             }
 
         } while (aguardar == TRUE);
 
-        if(solicitacaoTermino && !quantidadeAtual){
+        if(solicitacaoTermino){
             break;
         }
 
         no = retiraNo(BUFFER, &quantidadeAtual);
         fprintf(arquivoLog, "[consumo %c]: Numero lido %d\n", caracter, no->numero );
+        if(primeiroConsumido){
+          maiorNumero = no->numero;
+          menorNumero = no->numero;
+          primeiroConsumido = FALSE;
+        }
+        if(no->numero > maiorNumero){
+            maiorNumero = no->numero;
+        }
+        if(no->numero < menorNumero){
+            menorNumero = no->numero;
+        }
+
         pthread_mutex_unlock(&mutex);
 
         //TODO arrumar o tempo

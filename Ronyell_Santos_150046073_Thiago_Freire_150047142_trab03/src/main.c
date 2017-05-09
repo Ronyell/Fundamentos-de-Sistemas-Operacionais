@@ -7,7 +7,7 @@
 #include "fila.h"
 
 int main(int argc, char* argv[]){
-
+    primeiroConsumido = TRUE;
     if(argc == 2){
         strcat(argv[1],".txt");
     }else{
