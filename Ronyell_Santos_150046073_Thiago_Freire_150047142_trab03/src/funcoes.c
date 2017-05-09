@@ -62,7 +62,6 @@ void *funcaoProdutora(void *argumentos){
     return (NULL);
 }
 
-
 void *funcaoConsumidora(void *argumentos){
     int aguardar = FALSE;
     char caracter = *(char*)argumentos;

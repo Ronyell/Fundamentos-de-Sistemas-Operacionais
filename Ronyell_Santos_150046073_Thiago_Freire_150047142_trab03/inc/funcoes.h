@@ -28,17 +28,11 @@ FILE * criarArquivoLog(char * nomeArquivo);
 
 void fecharArquivoLog();
 
-FILE * fecharArquivoSaida(FILE * output);
-
-void escreverArquivoSaida(FILE * output, char * message);
-
-void fecharArquivo(int * fd, int position);
-
-void encerrarProcesso(int verificador);
-
 void *funcaoProdutora(void *argumentos);
 
 void *funcaoConsumidora(void *argumentos);
+
+void encerrarProcesso(int verificador);
 
 int numeroRandomico();
 
