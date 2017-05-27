@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include <math.h>
-#define PI 3.14159
+#define PI 3.14159265
 
 void main()
 {
@@ -12,8 +12,6 @@ void main()
 
     printf("Digite o angulo: ");
     scanf("%f",&x);
-    printf("%f\n", sin(x));
-    x=x*PI/180;
     t=x;
     sum=x;
 
@@ -26,3 +24,4 @@ void main()
     printf("VALOR DE SENO: %f\n", sin(x));
     printf("Valor do seno em radianos: %.6f\n",sum);
 }
+
