@@ -8,7 +8,7 @@ void displayNumero(char * opcao, double numero, double resultado);
 double calculaResultado(char * opcao, double numero);
 
 int main(int argc, char * argv[]){
-double b = seno(96);
+  double b = seno(10);
   printf("%.3lf\n", b);
   return 0;
 }
