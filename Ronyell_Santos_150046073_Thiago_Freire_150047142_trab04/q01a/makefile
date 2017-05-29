@@ -15,10 +15,10 @@ SRCFILESENO := $(wildcard src/libseno.c)
 all: createFolders static program
 
 program: $(SRCFILEMAIN:src/main.c=obj/main.o)
-	$(CC) $(CFLAGS) obj/main.o -o main ./obj/libseno.a
+	$(CC) $(CFLAGS) obj/main.o -o trabalho_04 ./obj/libseno.a
 
 obj/main.o: src/main.c
-		$(CC) -c -static $< -o $@ -I./inc -I./inc
+		$(CC) -c -static $< -o $@ -I./inc
 
 static: $(SRCFILESENO:src/libseno.c=obj/libseno.o)
 		 $(CFLAGSSTATIC) obj/libseno.a obj/libseno.o
@@ -31,4 +31,4 @@ createFolders:
 
 clean:
 	rm -rf obj
-	rm -rf main
+	rm -rf trabalho_04

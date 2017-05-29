@@ -15,7 +15,7 @@ SRCFILESENO := $(wildcard src/libseno.c)
 all:	createFolders dynamic program
 
 program: $(SRCFILEMAIN:src/main.c=obj/main.o)
-	$(CC) $(CFLAGS) obj/main.o -o main -ldl
+	$(CC) $(CFLAGS) obj/main.o -o trabalho_04 -ldl
 
 obj/main.o: src/main.c
 		$(CC) $(CFLAGS) -c $< -o $@ -I./inc
@@ -31,4 +31,4 @@ createFolders:
 
 clean:
 	rm -rf obj
-	rm -rf main
+	rm -rf trabalho_04

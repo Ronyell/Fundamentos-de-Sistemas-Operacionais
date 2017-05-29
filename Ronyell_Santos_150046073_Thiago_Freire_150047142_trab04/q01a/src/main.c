@@ -9,7 +9,7 @@
 void displayNumero(char * opcao, double numero);
 
 int main(int argc, char * argv[]){
-        displayNumero(SENO, 30);
+        displayNumero(SENO, 3.33);
         return 0;
 }
 
