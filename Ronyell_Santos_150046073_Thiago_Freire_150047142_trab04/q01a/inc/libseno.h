@@ -14,4 +14,6 @@ double arc_seno(double seno);
 
 double potencia(double base, double expoente);
 
+double fatorial_duplo(double numero);
+
 #endif

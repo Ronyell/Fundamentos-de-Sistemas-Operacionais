@@ -9,7 +9,8 @@
 void displayNumero(char * opcao, double numero);
 
 int main(int argc, char * argv[]){
-        displayNumero(SENO, 3.33);
+
+        displayNumero(ARC_SENO, 0.999);
         return 0;
 }
 
