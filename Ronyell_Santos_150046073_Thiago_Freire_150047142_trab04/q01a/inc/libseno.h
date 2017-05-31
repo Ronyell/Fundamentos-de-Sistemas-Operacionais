@@ -12,4 +12,6 @@ double seno(double angulo);
 
 double arc_seno(double seno);
 
+double potencia(double base, double expoente);
+
 #endif

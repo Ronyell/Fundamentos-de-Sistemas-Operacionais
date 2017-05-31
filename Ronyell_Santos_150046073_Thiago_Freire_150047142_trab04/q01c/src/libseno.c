@@ -4,21 +4,41 @@
 
 
 double seno(double angulo){
-    double term, total_so_far;
-    int i;
+        int contador;
+        double soma, termo;
 
-    term = angulo;  /* First term in the expansion. */
-    total_so_far = 0.0;
-    for (i = 1; i <= 100; i++) {
-      /* Add current term to sum. */
-      total_so_far += term;
-      /* Compute next term from the current one. */
-      term *= -(angulo * angulo) / (2*i) / (2*i + 1);
-    }
-    return total_so_far;
+        //Número de interações para calcular a série, quanto maior menor o erro de seno.
+        termo = angulo;
+        soma = angulo;
 
+        /* Loop to calculate the value of Sine */
+        for(contador=1; contador <= NUMERO_INTERACOES; contador++)
+        {
+                termo = ( termo * ( -1 ) * angulo * angulo ) / (2 * contador * ( 2 * contador + 1 ) ) * 1.0;
+                soma = soma + termo;
+        }
+        return soma;
 }
 
 double arc_seno(double seno){
-  return 3.0 + 5.0;
+        return 3.0 + 5.0;
+}
+
+double potencia(double base, double expoente){
+        int contador = 0;
+        double resultado = base;
+
+        if(expoente == 0) {
+                return 1;
+        }
+
+        for(contador = 1; contador < expoente; contador++) {
+                resultado *= base;
+        }
+
+        if(expoente < 0) {
+                resultado = 1/resultado;
+        }
+
+        return resultado;
 }

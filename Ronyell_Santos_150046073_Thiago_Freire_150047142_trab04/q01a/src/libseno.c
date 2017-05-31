@@ -23,3 +23,22 @@ double seno(double angulo){
 double arc_seno(double seno){
         return 3.0 + 5.0;
 }
+
+double potencia(double base, double expoente){
+        int contador = 0;
+        double resultado = base;
+
+        if(expoente == 0) {
+                return 1;
+        }
+
+        for(contador = 1; contador < expoente; contador++) {
+                resultado *= base;
+        }
+
+        if(expoente < 0) {
+                resultado = 1/resultado;
+        }
+
+        return resultado;
+}
