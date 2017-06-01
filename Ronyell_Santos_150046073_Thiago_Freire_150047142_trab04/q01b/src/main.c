@@ -9,7 +9,13 @@
 void displayNumero(char * opcao, double numero);
 
 int main(int argc, char * argv[]){
-        displayNumero(SENO, 30);
+  if(argc > 2){
+    double angulo;
+    angulo = atof(argv[2]);
+    displayNumero(argv[1], angulo);
+  } else {
+    printf("Quantidade de parâmetros inválidos.\n");
+  }
         return 0;
 }
 
