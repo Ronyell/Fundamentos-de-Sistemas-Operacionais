@@ -5,14 +5,37 @@
 #include <sys/stat.h>
 #include <unistd.h>
 #include <dirent.h>
+int NUMBER_FILE = 0;
 
 
+void print_content_file(char * file_path){
+  FILE *file;
+  char charactere;
+  int i = 0;
 
-void listdir(const char *name, int level,const char *file_name)
+  file = fopen(file_path, "r");
+  if(file == NULL){
+    printf("Arquivo não encontrado." );
+  } else {
+      NUMBER_FILE = NUMBER_FILE + 1;
+    printf("%d.%s --\n", NUMBER_FILE ,file_path);
+    for(i = 0; i < 30; i++){
+      fscanf(file,"%c",&charactere);
+      printf("%c", charactere);
+    }
+    fclose(file);
+    printf("\n");
+  }
+
+}
+
+
+void listdir(const char *name, int level,const char *file_name, int number_file)
 {
     DIR *dir;
     struct dirent *entry;
     char * file = file_name;
+    char file_path[1024];
 
     if (!(dir = opendir(name)))
         return;
@@ -27,7 +50,7 @@ void listdir(const char *name, int level,const char *file_name)
             if (strcmp(entry->d_name, ".") == 0 || strcmp(entry->d_name, "..") == 0){
               continue;
             }
-            listdir(path, level + 1, file_name);
+            listdir(path, level + 1, file_name, number_file);
         }
         else{
           //Verificando se possuem arquivos com o nome informado
@@ -36,11 +59,19 @@ void listdir(const char *name, int level,const char *file_name)
 
           is_file_name = strstr(entry->d_name, file);
           if(is_file_name != NULL){
-           printf("Arquivo encontrado: %s\n", entry->d_name);
-         } else {
-           //NOTHIN TO DO.
-          }
-        }
+           //Concatenando a string do caminho com a / e com o nome do arquivo.
+           strcpy(file_path, name);
+           strcat(file_path, "/");
+           strcat(file_path, entry->d_name);
+           print_content_file(file_path);
+                number_file--;
+            }
+             if(number_file == 0){
+                  closedir(dir);
+                  return;
+             }
+         }
+
 
     } while (entry = readdir(dir));
     closedir(dir);
@@ -48,7 +79,7 @@ void listdir(const char *name, int level,const char *file_name)
 
 
 int main(int argc, char * argv[]){
-  if (argc > 2)
+  if (argc > 3)
     {
     DIR *directory;
     struct dirent *dir;
@@ -60,7 +91,9 @@ int main(int argc, char * argv[]){
     char file_name[file_name_size];
     memcpy(file_name, argv[2], file_name_size);
 
-    listdir(path, 0, file_name);
+    int number_file = atoi(argv[3]);
+
+    listdir(path, 0, file_name, number_file);
 
   } else {
     printf("Quantidade de parâmetros inválida.\n");
