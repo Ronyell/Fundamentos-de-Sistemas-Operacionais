@@ -6,27 +6,26 @@
 #include <unistd.h>
 #include <dirent.h>
 int NUMBER_FILE = 0;
-
+int found_files;
 
 void print_content_file(char * file_path){
-  FILE *file;
-  char charactere;
-  int i = 0;
-
-  file = fopen(file_path, "r");
-  if(file == NULL){
-    printf("Arquivo não encontrado." );
-  } else {
-      NUMBER_FILE = NUMBER_FILE + 1;
-    printf("%d.%s --\n", NUMBER_FILE ,file_path);
-    for(i = 0; i < 30; i++){
-      fscanf(file,"%c",&charactere);
-      printf("%c", charactere);
-    }
-    fclose(file);
-    printf("\n");
+  found_files --;
+  if(found_files >= 0){
+      FILE *file;
+      file=fopen(file_path,"r");
+      int j;
+      char charactere;
+      NUMBER_FILE++;
+      printf("%d.%s --\n", NUMBER_FILE, file_path);
+      for(j = 0; j<30;j++){
+          charactere= fgetc(file);
+          if(charactere == EOF)
+              break;
+          printf("%c",charactere);
+      }
+      printf("\n");
+      fclose(file);
   }
-
 }
 
 
@@ -53,32 +52,25 @@ void listdir(const char *name, int level,const char *file_name, int number_file)
             listdir(path, level + 1, file_name, number_file);
         }
         else{
-          //Verificando se possuem arquivos com o nome informado
           char *is_file_name = NULL;
-
-
+          //Verificando se possuem arquivos com o nome informado
           is_file_name = strstr(entry->d_name, file);
+
           if(is_file_name != NULL){
            //Concatenando a string do caminho com a / e com o nome do arquivo.
            strcpy(file_path, name);
            strcat(file_path, "/");
            strcat(file_path, entry->d_name);
            print_content_file(file_path);
-                number_file--;
             }
-             if(number_file == 0){
-                  closedir(dir);
-                  return;
-             }
          }
-
 
     } while (entry = readdir(dir));
     closedir(dir);
 }
 
 
-int main(int argc, char * argv[]){
+int main(int argc, char **argv){
   if (argc > 3)
     {
     DIR *directory;
@@ -91,9 +83,9 @@ int main(int argc, char * argv[]){
     char file_name[file_name_size];
     memcpy(file_name, argv[2], file_name_size);
 
-    int number_file = atoi(argv[3]);
+    found_files = atoi(argv[3]);
 
-    listdir(path, 0, file_name, number_file);
+    listdir(path, 0, file_name, found_files);
 
   } else {
     printf("Quantidade de parâmetros inválida.\n");
