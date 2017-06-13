@@ -5,21 +5,27 @@ void print_content_file(char * file_path){
         if(found_files >= 0) {
                 FILE *file;
                 file=fopen(file_path,"r");
-                int j;
-                char charactere;
+                int count;
+                char charactere = ' ';
+                char previous = ' ';
                 NUMBER_FILE++;
+
                 printf("  %d.%s --\n    ", NUMBER_FILE, file_path);
-                for(j = 0; j<30; j++) {
-                        charactere= fgetc(file);
-                        if(charactere == EOF)
+
+                for(count = 0; count<30; count++) {
+                        previous == charactere;
+                        charactere = fgetc(file);
+
+                        if(charactere == EOF) {
                                 break;
+                        }
                         printf("%c",charactere);
                         if(charactere == '\n') {
                                 printf("    ");
                         }
-
                 }
                 printf("\n");
+
                 fclose(file);
         }
 }
